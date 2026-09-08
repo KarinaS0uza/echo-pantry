@@ -1,0 +1,7 @@
+{
+  "name": "eslint-plugin-echo",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.cjs",
+  "peerDependencies": { "eslint": "^8.57.1" }
+}
