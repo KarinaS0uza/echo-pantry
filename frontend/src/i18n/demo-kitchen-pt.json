@@ -1,0 +1,183 @@
+{
+  "kitchen": {
+    "home": "Início",
+    "headline": "Sua despensa.\nSeu jantar.",
+    "recipe": "Receita",
+    "cooking": "Preparo",
+    "search": "Encontrar receita",
+    "searchLabel": "Nome da receita",
+    "quickIdeas": "Ideias rápidas",
+    "seeAll": "Ver todas",
+    "backKitchen": "Voltar à cozinha",
+    "backRecipe": "Voltar à receita",
+    "startCooking": "Começar preparo guiado",
+    "timer": "Temporizador",
+    "startTimer": "Iniciar temporizador",
+    "pauseTimer": "Pausar temporizador",
+    "resumeTimer": "Retomar temporizador",
+    "resetTimer": "Reiniciar temporizador",
+    "timerFinished": "Tempo concluído. A próxima etapa está pronta.",
+    "timerRunning": "O temporizador está em andamento.",
+    "timerPaused": "O temporizador está pausado.",
+    "timeRemaining": "Tempo restante",
+    "timeUnits": "min     seg",
+    "stepCount": "Etapa {{current}} de {{total}}",
+    "nextStep": "Próxima etapa",
+    "previousStep": "Etapa anterior",
+    "finishCooking": "Concluir Preparo",
+    "complete": "Refeição Concluída",
+    "enjoy": "Você cozinhou em casa!",
+    "finishedBody": "Sua refeição foi registrada e sua despensa está atualizada. Bom apetite!",
+    "takeYourTime": "Sem pressa. Avance quando estiver tudo pronto.",
+    "showTip": "Mostrar dica de preparo",
+    "cookingOptions": "Dicas e informações de preparo",
+    "tip": "Uma dica para a cozinha",
+    "dark": "Usar aparência escura",
+    "light": "Usar aparência clara",
+    "saveRecipe": "Salvar {{name}}",
+    "unsaveRecipe": "Remover {{name}} dos salvos",
+    "savedVisit_one": "1 receita salva nesta visita.",
+    "savedVisit_other": "{{count}} receitas salvas nesta visita.",
+    "browseMeals": "Ver refeições da despensa",
+    "noResults": "Nenhuma receita encontrada. Tente “feijão” ou “tomate”.",
+    "ideas": {
+      "lemon": {
+        "title": "Com limão",
+        "body": "Leve e fresco"
+      },
+      "beans": {
+        "title": "Com feijão",
+        "body": "Quente e caseiro"
+      },
+      "green": {
+        "title": "Com manjericão",
+        "body": "Leve e aromático"
+      }
+    },
+    "dishes": {
+      "beans": {
+        "title": "Feijão-branco com limão",
+        "metadata": "25 min · Serve 2",
+        "ingredients": [
+          "2 xícaras de feijão-branco cozido e escorrido",
+          "1 colher de sopa de azeite",
+          "1 limão, raspas e suco",
+          "2 colheres de sopa de salsinha picada",
+          "Um pouco de água",
+          "Sal e pimenta-do-reino a gosto"
+        ],
+        "method": [
+          "Aqueça o azeite em uma panela.",
+          "Junte o feijão e um pouco de água. Cozinhe em fogo baixo por 8 minutos.",
+          "Finalize com limão e salsinha."
+        ],
+        "steps": [
+          {
+            "title": "Prepare os\ningredientes.",
+            "body": "Escorra o feijão cozido. Raspe a casca do limão e pique a salsinha.",
+            "tip": "Deixe os ingredientes perto do fogão antes de começar."
+          },
+          {
+            "title": "Aqueça o azeite.",
+            "body": "Leve uma panela ao fogo médio-baixo. Adicione o azeite e aqueça delicadamente.",
+            "tip": "O azeite deve ficar brilhante, sem soltar fumaça."
+          },
+          {
+            "title": "Deixe cozinhar\ndevagar.",
+            "body": "Junte o feijão e um pouco de água. Cozinhe até ficar cremoso.",
+            "tip": "Mexa delicadamente. Adicione mais água se a panela ficar seca."
+          },
+          {
+            "title": "É hora do limão.",
+            "body": "Retire do fogo. Misture as raspas e um pouco do suco de limão.",
+            "tip": "Comece com pouco suco, prove e ajuste."
+          },
+          {
+            "title": "Um toque de frescor.",
+            "body": "Junte a salsinha. Tempere com sal e pimenta-do-reino a gosto.",
+            "tip": "Reserve um pouco de salsinha para finalizar os pratos."
+          },
+          {
+            "title": "Pronto para servir.",
+            "body": "Sirva em tigelas aquecidas e finalize com um fio de azeite.",
+            "tip": "Acompanhe com uma torrada, se tiver em casa."
+          }
+        ]
+      },
+      "tomato": {
+        "title": "Massa com Tomate e Burrata",
+        "metadata": "25 min · Serve 2",
+        "ingredients": [
+          "200 g de massa",
+          "250 g de tomates-cereja",
+          "1 bola de burrata",
+          "Um punhado de manjericão",
+          "2 dentes de alho",
+          "1 colher de sopa de azeite",
+          "Sal e pimenta-do-reino a gosto"
+        ],
+        "method": [
+          "Ferva uma panela grande de água com sal. Corte 250 g de tomates-cereja ao meio, fatie 2 dentes de alho e separe um punhado de folhas de manjericão.",
+          "Coloque 200 g de massa na água fervente. Cozinhe conforme a embalagem até ficar al dente. Reserve uma caneca da água do cozimento antes de escorrer.",
+          "Enquanto a massa cozinha, aqueça 1 colher de sopa de azeite em uma frigideira grande em fogo médio-baixo. Adicione o alho e mexa por cerca de 1 minuto, até perfumar.",
+          "Adicione os tomates-cereja e uma pitada de sal. Cozinhe por 5 a 7 minutos, mexendo de vez em quando, até amaciarem. Amasse alguns tomates levemente para soltar o suco.",
+          "Coloque a massa escorrida na frigideira. Misture com um pouco da água reservada até o molho envolver a massa. Adicione a maior parte do manjericão e desligue o fogo.",
+          "Divida a massa entre dois pratos. Abra 1 bola de burrata sobre a massa e finalize com o manjericão restante e pimenta-do-reino. Selecione Concluir Preparo para revisar o que usou."
+        ],
+        "steps": [
+          {
+            "title": "Prepare os ingredientes.",
+            "body": "Ferva uma panela grande de água com sal. Corte 250 g de tomates-cereja ao meio, fatie 2 dentes de alho e separe um punhado de folhas de manjericão.",
+            "tip": "Deixe a burrata pronta para adicionar depois do cozimento."
+          },
+          {
+            "title": "Cozinhe a massa.",
+            "body": "Coloque 200 g de massa na água fervente. Cozinhe conforme a embalagem até ficar al dente. Reserve uma caneca da água do cozimento antes de escorrer.",
+            "tip": "A massa deve ficar levemente firme. Siga o tempo indicado na embalagem."
+          },
+          {
+            "title": "Aqueça o alho.",
+            "body": "Enquanto a massa cozinha, aqueça 1 colher de sopa de azeite em uma frigideira grande em fogo médio-baixo. Adicione o alho e mexa por cerca de 1 minuto, até perfumar.",
+            "tip": "Abaixe o fogo se o alho começar a dourar."
+          },
+          {
+            "title": "Prepare o molho.",
+            "body": "Adicione os tomates-cereja e uma pitada de sal. Cozinhe por 5 a 7 minutos, mexendo de vez em quando, até amaciarem. Amasse alguns tomates levemente para soltar o suco.",
+            "tip": "Adicione um pouco da água do cozimento se a frigideira ficar seca."
+          },
+          {
+            "title": "Misture a massa.",
+            "body": "Coloque a massa escorrida na frigideira. Misture com um pouco da água reservada até o molho envolver a massa. Adicione a maior parte do manjericão e desligue o fogo.",
+            "tip": "Acrescente a água aos poucos para deixar o molho cremoso."
+          },
+          {
+            "title": "Finalize com burrata.",
+            "body": "Divida a massa entre dois pratos. Abra 1 bola de burrata sobre a massa e finalize com o manjericão restante e pimenta-do-reino. Selecione Concluir Preparo para revisar o que usou.",
+            "tip": "Adicione a burrata fora do fogo para manter o centro cremoso."
+          }
+        ]
+      }
+    },
+    "overview": "Acompanhe seus ingredientes, veja o que precisa usar em breve e prepare uma refeição caseira com o que você já tem.",
+    "myPantry": "Minha Despensa",
+    "pantrySummary": "{{count}} itens na despensa · {{points}} pontos",
+    "viewPantry": "Ver Minha Despensa",
+    "reviewTitle": "Revisar Ingredientes Usados",
+    "reviewBody": "Selecione os itens que você usou por completo. Os itens selecionados serão removidos da despensa. Desmarque os que ainda têm sobras.",
+    "noPantryItems": "Sua despensa está vazia. Você ainda pode registrar sua refeição caseira.",
+    "completionError": "Não foi possível confirmar a atualização da despensa. Tente novamente para concluir a mesma refeição com segurança.",
+    "retryFinish": "Tentar Concluir Novamente",
+    "pointsEarned": "+{{points}} pontos",
+    "homeReward": "+100 pontos por cozinhar em casa",
+    "balancedReward": "+50 pontos por hábitos saudáveis na cozinha",
+    "rewardNote": "Continue criando o hábito de cozinhar em casa, uma refeição de cada vez.",
+    "totalRewards": "{{count}} refeições preparadas · {{points}} pontos no total",
+    "pantryLoadError": "Não foi possível carregar sua despensa. Tente novamente para ver os ingredientes.",
+    "retryPantry": "Recarregar Despensa",
+    "finishedBody_one": "Sua refeição foi registrada. 1 item selecionado foi removido, e os demais continuam na Minha despensa. Bom apetite!",
+    "finishedBody_other": "Sua refeição foi registrada. {{count}} itens selecionados foram removidos, e os demais continuam na Minha despensa. Bom apetite!",
+    "finishedBody_zero": "Sua refeição foi registrada. Você manteve todos os itens da despensa. Bom apetite!",
+    "readyFromPantry": "Todos os ingredientes da receita estão na sua despensa.",
+    "missingIngredients": "Para preparar esta receita, adicione: {{ingredients}}."
+  }
+}

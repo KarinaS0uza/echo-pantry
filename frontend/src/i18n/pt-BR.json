@@ -1,0 +1,641 @@
+{
+  "brand": "Echo Pantry",
+  "nav": {
+    "menu": "Abrir menu",
+    "close": "Fechar menu",
+    "title": "Sua cozinha",
+    "meals": "Refeições",
+    "pantry": "Minha despensa",
+    "recipes": "Minhas receitas",
+    "signOut": "Sair",
+    "signIn": "Entrar",
+    "signUp": "Criar conta",
+    "skip": "Ir para o conteúdo"
+  },
+  "settings": {
+    "theme": "Aparência",
+    "light": "Claro",
+    "dark": "Escuro",
+    "system": "Usar configuração do dispositivo",
+    "language": {
+      "label": "Idioma",
+      "english": "English",
+      "portuguese": "Português (Brasil)",
+      "notSaved": "Idioma alterado por enquanto. Não foi possível salvar sua escolha para a próxima visita.",
+      "changeFailed": "Não foi possível alterar o idioma. Tente novamente."
+    }
+  },
+  "common": {
+    "loading": "Carregando",
+    "close": "Fechar",
+    "cancel": "Cancelar",
+    "retry": "Tentar novamente",
+    "clear": "Limpar {{label}}",
+    "add": "Adicionar item",
+    "undo": "Desfazer",
+    "discard": "Descartar",
+    "delete": "Excluir",
+    "save": "Salvar",
+    "decrease": "Diminuir {{label}}",
+    "increase": "Aumentar {{label}}",
+    "required": "Preencha {{label}}.",
+    "search": "Buscar",
+    "remove": "Remover {{label}}"
+  },
+  "connection": {
+    "offline": "Não foi possível acessar sua cozinha local. As informações podem estar desatualizadas. Confira se o Echo Pantry está em execução e tente novamente.",
+    "checking": "Verificando a conexão",
+    "ready": "Sua cozinha local está conectada."
+  },
+  "draft": {
+    "restored": "Seu rascunho foi restaurado.",
+    "notSaved": "Não foi possível salvar este rascunho no dispositivo. Mantenha a página aberta para preservar seu trabalho.",
+    "leaveTitle": "Manter suas alterações?",
+    "leaveBody": "Há alterações não finalizadas nesta página.",
+    "keep": "Continuar editando",
+    "discardChanges": "Descartar alterações"
+  },
+  "auth": {
+    "kicker": "Criar conta",
+    "signUpTitle": "Crie sua conta",
+    "signUpSubtitle": "Reúna seus ingredientes e receitas em um só lugar.",
+    "name": "Nome",
+    "email": "E-mail",
+    "password": "Senha",
+    "passwordHelper": "Pelo menos 8 caracteres.",
+    "showPassword": "Mostrar senha",
+    "submit": "Criar conta",
+    "emailInvalid": "Digite um endereço de e-mail válido.",
+    "passwordShort": "Use pelo menos 8 caracteres.",
+    "notConnected": "As contas ainda não estão conectadas nesta versão. Nada do que você digitou foi enviado a lugar nenhum.",
+    "haveAccount": "Já tem uma conta?",
+    "signUp": "Criar conta",
+    "signIn": "Entrar",
+    "signInKicker": "Entrar",
+    "signInTitle": "Que bom ter você de volta",
+    "signInSubtitle": "Entre para abrir sua despensa e suas receitas salvas.",
+    "signInSubmit": "Entrar",
+    "continueDemo": "Continuar com dados de demonstração",
+    "demoDescription": "Explore a despensa de demonstração sem e-mail ou senha. As alterações na demonstração são salvas separadamente dos dados da conta.",
+    "backToMeals": "Voltar para Refeições",
+    "invalidCredentials": "E-mail ou senha incorretos. Tente novamente.",
+    "tooManyAttempts": "Muitas tentativas de acesso. Aguarde um minuto e tente novamente.",
+    "connectionError": "Não foi possível entrar. Verifique sua conexão e tente novamente.",
+    "signedInAs": "Conectado como {{name}}"
+  },
+  "foundation": {
+    "title": "Coisas boas começam\nna sua cozinha.",
+    "description": "Sua cozinha está tomando forma. A descoberta de refeições e sua despensa pessoal chegam nas próximas etapas.",
+    "pantryBody": "Sua despensa vai reunir ingredientes, quantidades e datas.",
+    "recipesBody": "Um lugar para suas receitas e as variações de que você gosta.",
+    "authBody": "Os formulários de conta chegam na próxima etapa.",
+    "back": "Voltar para Refeições"
+  },
+  "pantry": {
+    "introduction": "Confira seus ingredientes por local de armazenamento.",
+    "dateNote": "As datas são lembretes, não orientações de segurança alimentar.",
+    "total": "Ingredientes: {{count}}",
+    "attention": "Para usar logo ou conferir: {{count}}",
+    "daysLeft": "Dias restantes: {{count}}",
+    "errorTitle": "Não foi possível carregar a despensa",
+    "errorBody": "Confira se a cozinha local está funcionando e tente novamente.",
+    "emptyTitle": "Ainda não há ingredientes",
+    "emptyBody": "Comece sua despensa e adicione os ingredientes que você tem.",
+    "locations": {
+      "refrigerator": "Geladeira",
+      "freezer": "Freezer",
+      "pantry": "Despensa",
+      "counter": "Bancada",
+      "other": "Outros"
+    },
+    "tiers": {
+      "review": "Data passada, confira",
+      "use_today": "Usar hoje",
+      "use_soon": "Usar em breve",
+      "coming_up": "Nos próximos dias",
+      "neutral": "Tempo de sobra",
+      "unknown": "Sem data"
+    },
+    "personalIntroduction": "Adicione os ingredientes que você tem em casa.",
+    "visitOnly": "Os ingredientes ficam aqui durante esta visita, mesmo ao trocar de tela. Recarregar a página apaga os itens. Ainda não é possível salvar na conta. As sugestões de refeições não incluem os ingredientes adicionados nesta visita.",
+    "personalTotal": "Seus ingredientes: {{count}}",
+    "units": {
+      "item": "unidade",
+      "g": "g",
+      "kg": "kg",
+      "oz": "oz",
+      "lb": "lb",
+      "ml": "ml",
+      "l": "l",
+      "tsp": "colher de chá",
+      "tbsp": "colher de sopa",
+      "cup": "xícara",
+      "bunch": "maço",
+      "can": "lata",
+      "whole": "inteiros",
+      "cloves": "dentes",
+      "handful": "punhado"
+    },
+    "entry": {
+      "title": "Adicionar ingrediente",
+      "name": "Nome do ingrediente",
+      "quantity": "Quantidade",
+      "unit": "Unidade",
+      "location": "Local de armazenamento",
+      "date": "Data (opcional)",
+      "dateHelp": "Use uma data do rótulo ou um lembrete seu. Você pode deixar em branco.",
+      "add": "Adicionar ingrediente",
+      "nameRequired": "Digite o nome do ingrediente.",
+      "quantityInvalid": "Digite uma quantidade maior que 0 e até 999999, com até seis casas decimais.",
+      "dateInvalid": "Digite uma data válida.",
+      "draftFailed": "Não foi possível salvar o rascunho neste navegador. Mantenha esta página aberta.",
+      "added": "{{name}} adicionado à sua despensa nesta visita."
+    }
+  },
+  "meals": {
+    "title": "Boas ideias começam na sua cozinha",
+    "start": "Minha despensa",
+    "servings": "Porções",
+    "filters": "Filtros de refeições",
+    "vegetarian": "Vegetariano",
+    "favorites": "Favoritos",
+    "avoidCount": "Evitar ({{count}})",
+    "todayCount": "Ingredientes para hoje ({{count}})",
+    "reset": "Limpar filtros e seleções",
+    "sampleFavorites": "Ainda não há favoritos salvos. Desative Favoritos para explorar todas as refeições.",
+    "selected": "Selecionados para hoje: {{names}}",
+    "completeMatches": "Prontas com sua despensa",
+    "purchaseNeeded": "Precisam de ingredientes ou conferência de quantidades",
+    "errorTitle": "Não foi possível carregar as refeições",
+    "errorBody": "Confira se a cozinha local está funcionando e tente novamente.",
+    "emptyTitle": "Tente outra combinação",
+    "emptySelection": "Nenhuma receita usa todos esses ingredientes com os filtros atuais. Escolha menos ingredientes ou limpe as seleções.",
+    "emptyMeals": "Nenhuma refeição disponível no momento. Tente alterar o número de porções.",
+    "emptyFilters": "Nenhuma refeição corresponde aos filtros. Limpe-os para explorar todas as refeições.",
+    "avoidNotice": "Algumas receitas foram excluídas por conterem um ingrediente evitado ou informações incompletas sobre os ingredientes.",
+    "today": "Escolher ingredientes para hoje",
+    "avoid": "Ingredientes para evitar",
+    "mealType": "Tipo de refeição",
+    "cuisine": "Culinária",
+    "time": "Tempo de preparo",
+    "types": {
+      "any": "Qualquer refeição",
+      "breakfast": "Café da manhã",
+      "lunch": "Almoço",
+      "dinner": "Jantar",
+      "side": "Acompanhamento"
+    },
+    "cuisines": {
+      "any": "Qualquer culinária",
+      "american": "Americana",
+      "brazilian": "Brasileira",
+      "indian": "Indiana",
+      "korean": "Coreana"
+    },
+    "times": {
+      "any": "Qualquer duração",
+      "30": "Até 30 minutos",
+      "60": "Até 60 minutos"
+    },
+    "todayHelp": "Escolha os ingredientes para hoje. As sugestões precisam usar todos os ingredientes selecionados. Ingredientes opcionais só entram quando você os seleciona.",
+    "avoidHelp": "Receitas com informações incertas sobre ingredientes também são excluídas. Este filtro não garante segurança para alergias.",
+    "findIngredient": "Buscar ingrediente",
+    "ingredientCount": "Ingredientes encontrados: {{count}}",
+    "done": "Mostrar refeições",
+    "available": "Ingredientes disponíveis",
+    "missing": "Faltando ou em quantidade insuficiente",
+    "checkQuantity": "Conferir quantidade",
+    "none": "Nenhum",
+    "need": "Necessário: {{quantity}}",
+    "have": "Disponível: {{quantity}}",
+    "completeSummary": "Os ingredientes necessários estão disponíveis.",
+    "incompleteSummary": "Confira os ingredientes que faltam e as quantidades incertas antes de cozinhar.",
+    "useFirst": "Use primeiro: {{name}}. Confira a data e o estado antes de cozinhar.",
+    "additions": "Outros ingredientes da despensa",
+    "include": "Incluir {{name}}",
+    "otherIngredient": "Também nesta receita: {{name}}.",
+    "timeKnown": "{{count}} min",
+    "timeUnknown": "Tempo não informado",
+    "expiring": "Usa ingredientes com datas próximas: {{names}}",
+    "unknownDate": "Data não informada",
+    "review": "Conferir data",
+    "use_today": "Usar hoje",
+    "use_soon": "Usar em breve",
+    "coming_up": "Nos próximos dias",
+    "neutral": "Mais adiante",
+    "included": "Incluído: {{name}}",
+    "breakdown": "Ingredientes: {{owned}} disponíveis, {{missing}} faltando, {{uncertain}} para conferir",
+    "estimateUnavailable": "Estimativa de preço indisponível. Confira as quantidades e os preços atuais antes de comprar."
+  },
+  "detail": {
+    "back": "Voltar às refeições",
+    "errorTitle": "Não foi possível carregar a receita",
+    "openOriginal": "Abrir receita original em {{source}}",
+    "source": "Fonte: {{source}}",
+    "panels": "Informações da receita",
+    "ingredients": "Ingredientes",
+    "method": "Preparo",
+    "toTaste": "A gosto",
+    "unknown": "Quantidade não informada. Confira a receita original.",
+    "optional": "Opcional",
+    "methodBody": "Siga o modo de preparo no site original. As quantidades aqui acompanham as porções escolhidas; visualizar a receita não altera o estoque.",
+    "errorBody": "Não foi possível carregar esta receita. Tente novamente ou volte às refeições.",
+    "quickMethod": "Preparo resumido",
+    "quickMethodBody": "Um resumo do preparo feito pelo Echo Pantry. Abra a receita original para ver as instruções completas, os tempos e as temperaturas.",
+    "methods": {
+      "US-01": [
+        "Misture os ingredientes secos e acrescente o leite, o ovo e a manteiga derretida.",
+        "Coloque porções da massa em uma frigideira quente e untada.",
+        "Vire quando surgirem bolhas e doure o outro lado."
+      ],
+      "US-02": [
+        "Passe manteiga no pão e coloque o queijo entre as fatias.",
+        "Doure o sanduíche em uma frigideira em fogo baixo.",
+        "Vire e deixe dourar do outro lado, até o queijo derreter."
+      ],
+      "US-03": [
+        "Misture a carne, o ovo, a cebola picada, o leite, a farinha de rosca, o sal e a pimenta.",
+        "Modele o bolo de carne e cubra com a mistura de ketchup, açúcar mascavo e mostarda.",
+        "Asse na temperatura e pelo tempo indicados na receita original. Confira o cozimento e deixe descansar um pouco antes de fatiar."
+      ],
+      "US-04": [
+        "Cozinhe os ovos até ficarem firmes, esfrie, descasque e pique.",
+        "Misture com a maionese, a mostarda, a cebolinha e os temperos.",
+        "Leve à geladeira até a hora de servir."
+      ],
+      "US-05": [
+        "Refogue a cebola no óleo, acrescente a carne moída e doure.",
+        "Junte os temperos, as pimentas pepperoncini, a salmoura, a água e o ketchup.",
+        "Cozinhe até a carne ficar bem cozida e o molho engrossar. Sirva nos pães."
+      ],
+      "US-06": [
+        "Misture a maionese, o creme azedo, a salmoura e os temperos.",
+        "Acrescente o frango já cozido, as pimentas pepperoncini picadas e a cebolinha.",
+        "Leve à geladeira e sirva com biscoitos salgados."
+      ],
+      "US-07": [
+        "Corte as batatas e prepare conforme a receita original.",
+        "Cozinhe com óleo, manteiga, suco de limão e temperos até ficarem macias e douradas.",
+        "Finalize com cheddar e cebolinha."
+      ],
+      "US-08": [
+        "Refogue a cebola, o pimentão, a abobrinha e o alho com os temperos.",
+        "Junte o tomate em lata, o feijão, o milho e o frango já cozido. Cozinhe até aquecer bem.",
+        "Finalize com queijo, coentro e limão."
+      ],
+      "US-09": [
+        "Cozinhe a massa e refogue a cebola, o salsão e o pimentão.",
+        "Junte a farinha à manteiga e aos legumes. Acrescente o leite e o creme de leite aos poucos para formar o molho.",
+        "Derreta os queijos no molho, misture com a massa e finalize conforme a receita original."
+      ],
+      "KR-01": [
+        "Cozinhe o bacon e refogue os legumes e o kimchi.",
+        "Junte o arroz já cozido, o caldo do kimchi, o molho de soja e o gochujang. Misture até aquecer.",
+        "Finalize com óleo de gergelim e as coberturas escolhidas de ovo, gergelim e alga."
+      ],
+      "KR-02": [
+        "Cozinhe o macarrão de batata-doce e prepare o molho.",
+        "Cozinhe a carne e os legumes em etapas, seguindo a receita original.",
+        "Misture com o macarrão e o molho. Finalize com gergelim e ovo, se usar."
+      ],
+      "KR-03": [
+        "Fatie e salgue o pepino. Escorra o líquido que se formar.",
+        "Misture a pimenta, o alho, o vinagre, o açúcar e o óleo de gergelim.",
+        "Envolva o pepino no tempero e acrescente a cebolinha e o gergelim."
+      ],
+      "KR-04": [
+        "Aqueça o caldo com o tomate, o repolho e o alho.",
+        "Acrescente o tofu macio e tempere com o camarão salgado.",
+        "Despeje os ovos batidos e cozinhe até firmarem. Finalize com cebolinha e gergelim."
+      ],
+      "KR-05": [
+        "Misture a carne com a marinada de bulgogi indicada na receita original.",
+        "Cozinhe a carne marinada com os legumes e o molho.",
+        "Sirva sobre o arroz já cozido e quente."
+      ],
+      "KR-06": [
+        "Prepare e coe o caldo de nabo, cebola, alga e talos de cogumelo.",
+        "Disponha os cogumelos, os legumes, o tofu e o macarrão preparado em uma panela.",
+        "Acrescente o caldo e cozinhe até os legumes e o macarrão ficarem macios."
+      ],
+      "KR-07": [
+        "Refogue a carne de porco e o kimchi com alho e pimenta.",
+        "Junte o caldo do kimchi e o líquido indicado na receita original. Deixe cozinhar.",
+        "Acrescente o tofu e a cebolinha e cozinhe até a carne ficar bem cozida."
+      ],
+      "IN-01": [
+        "Corte as batatas e a couve-flor. Prepare a cebola, o tomate, o gengibre e o alho.",
+        "Refogue os aromáticos e as especiarias. Junte as batatas e a couve-flor.",
+        "Cozinhe até ficarem macias e finalize com os demais temperos, coentro e limão."
+      ],
+      "IN-02": [
+        "Prepare o purê de espinafre conforme a receita original.",
+        "Refogue a cebola, o tomate, a pasta de gengibre e alho e as especiarias para formar o molho.",
+        "Junte o espinafre e o paneer, aqueça em fogo baixo e finalize com creme de leite, se usar."
+      ],
+      "IN-03": [
+        "Deixe o grão-de-bico de molho e cozinhe conforme a receita original.",
+        "Refogue a cebola, a pasta de gengibre e alho, o tomate e as especiarias para formar o molho.",
+        "Acrescente o grão-de-bico e o caldo do cozimento. Deixe apurar e finalize com coentro."
+      ],
+      "IN-04": [
+        "Lave as lentilhas e cozinhe com água, tomate e pimenta até ficarem macias.",
+        "Aqueça o ghee e refogue o alho, as sementes e as especiarias.",
+        "Misture o ghee temperado às lentilhas e finalize com coentro e limão."
+      ],
+      "IN-05": [
+        "Descasque os ovos cozidos e prepare a cebola e o tomate.",
+        "Refogue os aromáticos e as especiarias. Junte o tomate e a água para formar o molho.",
+        "Acrescente os ovos, cozinhe em fogo baixo e finalize com ervas e creme de leite, se usar."
+      ],
+      "IN-06": [
+        "Lave o arroz e prepare a cebola, o tomate e os temperos.",
+        "Refogue os aromáticos e cozinhe o tomate até amaciar.",
+        "Junte o arroz e a água na medida da receita original. Cozinhe até ficar macio e solte os grãos antes de servir."
+      ],
+      "IN-07": [
+        "Lave o arroz e pique os legumes.",
+        "Refogue as especiarias inteiras, a cebola, a pasta de gengibre e alho e os legumes.",
+        "Junte o arroz e a água na medida da receita original. Tampe e cozinhe até ficar macio."
+      ],
+      "BR-01": [
+        "Lave e escorra o arroz.",
+        "Refogue o alho no óleo e acrescente o arroz.",
+        "Junte água e sal conforme a receita original. Tampe, cozinhe até ficar macio e solte os grãos."
+      ],
+      "BR-02": [
+        "Prepare o feijão seco seguindo o molho e o cozimento indicados na receita original.",
+        "Cozinhe o bacon, a linguiça, a cebola e o alho.",
+        "Junte ao feijão com os temperos. Cozinhe até os grãos ficarem macios e o caldo engrossar."
+      ],
+      "BR-03": [
+        "Corte o frango e refogue na manteiga com cebola e alho.",
+        "Junte o molho de tomate e o ketchup. Cozinhe até o frango ficar bem cozido.",
+        "Abaixe o fogo e misture o creme de leite. Ajuste os temperos e sirva."
+      ],
+      "BR-04": [
+        "Cozinhe as batatas e as cenouras até ficarem macias. Escorra e deixe esfriar.",
+        "Misture a maionese, o vinagre, a mostarda e os temperos.",
+        "Junte os legumes e os complementos escolhidos. Leve à geladeira antes de servir."
+      ],
+      "BR-05": [
+        "Escorra e fatie o palmito. Prepare os tomates, a cebola, as azeitonas e a alface.",
+        "Misture o azeite, o vinagre, o alho, o orégano e os temperos.",
+        "Monte a salada, acrescente o molho e finalize com salsinha."
+      ],
+      "BR-06": [
+        "Retire os talos mais firmes e corte a couve em tiras finas.",
+        "Cozinhe o bacon e refogue a cebola e o alho.",
+        "Junte a couve, refogue até amaciar e tempere a gosto."
+      ],
+      "BR-07": [
+        "Deixe o açaí congelado amolecer um pouco para bater.",
+        "Bata com um pouco de água até ficar cremoso e espesso. Adoce apenas se desejar.",
+        "Coloque em uma tigela e finalize com banana e granola."
+      ]
+    }
+  },
+  "kitchen": {
+    "home": "Cozinha",
+    "headline": "Ideias frescas.\nComida boa.",
+    "recipe": "Receita",
+    "cooking": "Preparo",
+    "search": "Encontrar receita",
+    "searchLabel": "Nome da receita",
+    "quickIdeas": "Ideias rápidas",
+    "seeAll": "Ver todas",
+    "backKitchen": "Voltar à cozinha",
+    "backRecipe": "Voltar à receita",
+    "startCooking": "Começar preparo guiado",
+    "timer": "Temporizador",
+    "startTimer": "Iniciar temporizador",
+    "pauseTimer": "Pausar temporizador",
+    "resumeTimer": "Retomar temporizador",
+    "resetTimer": "Reiniciar temporizador",
+    "timerFinished": "Tempo concluído. A próxima etapa está pronta.",
+    "timerRunning": "O temporizador está em andamento.",
+    "timerPaused": "O temporizador está pausado.",
+    "timeRemaining": "Tempo restante",
+    "timeUnits": "min     seg",
+    "stepCount": "Etapa {{current}} de {{total}}",
+    "nextStep": "Próxima etapa",
+    "previousStep": "Etapa anterior",
+    "finishCooking": "Concluir preparo",
+    "complete": "Tudo pronto",
+    "enjoy": "Feito com carinho.\nPronto para dividir.",
+    "finishedBody": "Seu prato está pronto. Leve à mesa e aproveite.",
+    "takeYourTime": "Sem pressa. Avance quando estiver tudo pronto.",
+    "showTip": "Mostrar dica de preparo",
+    "cookingOptions": "Dicas e informações de preparo",
+    "tip": "Uma dica para a cozinha",
+    "dark": "Usar aparência escura",
+    "light": "Usar aparência clara",
+    "saveRecipe": "Salvar {{name}}",
+    "unsaveRecipe": "Remover {{name}} dos salvos",
+    "savedVisit_one": "1 receita salva nesta visita.",
+    "savedVisit_other": "{{count}} receitas salvas nesta visita.",
+    "browseMeals": "Ver refeições da despensa",
+    "noResults": "Nenhuma receita encontrada. Tente “feijão” ou “tomate”.",
+    "ideas": {
+      "lemon": {
+        "title": "Com limão",
+        "body": "Leve e fresco"
+      },
+      "beans": {
+        "title": "Com feijão",
+        "body": "Quente e caseiro"
+      },
+      "green": {
+        "title": "Com folhas",
+        "body": "Leve e aromático"
+      }
+    },
+    "dishes": {
+      "beans": {
+        "title": "Feijão-branco com limão",
+        "metadata": "25 min · Serve 2",
+        "ingredients": [
+          "2 xícaras de feijão-branco cozido e escorrido",
+          "1 colher de sopa de azeite",
+          "1 limão, raspas e suco",
+          "2 colheres de sopa de salsinha picada",
+          "Um pouco de água",
+          "Sal e pimenta-do-reino a gosto"
+        ],
+        "method": [
+          "Aqueça o azeite em uma panela.",
+          "Junte o feijão e um pouco de água. Cozinhe em fogo baixo por 8 minutos.",
+          "Finalize com limão e salsinha."
+        ],
+        "steps": [
+          {
+            "title": "Prepare os\ningredientes.",
+            "body": "Escorra o feijão cozido. Raspe a casca do limão e pique a salsinha.",
+            "tip": "Deixe os ingredientes perto do fogão antes de começar."
+          },
+          {
+            "title": "Aqueça o azeite.",
+            "body": "Leve uma panela ao fogo médio-baixo. Adicione o azeite e aqueça delicadamente.",
+            "tip": "O azeite deve ficar brilhante, sem soltar fumaça."
+          },
+          {
+            "title": "Deixe cozinhar\ndevagar.",
+            "body": "Junte o feijão e um pouco de água. Cozinhe até ficar cremoso.",
+            "tip": "Mexa delicadamente. Adicione mais água se a panela ficar seca."
+          },
+          {
+            "title": "É hora do limão.",
+            "body": "Retire do fogo. Misture as raspas e um pouco do suco de limão.",
+            "tip": "Comece com pouco suco, prove e ajuste."
+          },
+          {
+            "title": "Um toque de frescor.",
+            "body": "Junte a salsinha. Tempere com sal e pimenta-do-reino a gosto.",
+            "tip": "Reserve um pouco de salsinha para finalizar os pratos."
+          },
+          {
+            "title": "Pronto para servir.",
+            "body": "Sirva em tigelas aquecidas e finalize com um fio de azeite.",
+            "tip": "Acompanhe com uma torrada, se tiver em casa."
+          }
+        ]
+      },
+      "tomato": {
+        "title": "Tomate com burrata",
+        "metadata": "15 min · Fácil",
+        "ingredients": [
+          "2 tomates maduros",
+          "1 bola de burrata",
+          "Um pequeno punhado de manjericão",
+          "1 colher de sopa de azeite",
+          "Sal e pimenta-do-reino a gosto"
+        ],
+        "method": [
+          "Fatie os tomates e arrume em um prato.",
+          "Coloque a burrata no centro.",
+          "Finalize com manjericão, azeite, sal e pimenta."
+        ],
+        "steps": [
+          {
+            "title": "Comece com\nfrescor.",
+            "body": "Lave os tomates e o manjericão. Seque delicadamente.",
+            "tip": "Escolha tomates maduros que cedam um pouco ao toque."
+          },
+          {
+            "title": "Fatie com cuidado.",
+            "body": "Corte os tomates em fatias generosas.",
+            "tip": "Uma faca de serra facilita o corte de tomates maduros."
+          },
+          {
+            "title": "Um prato cheio\nde cor.",
+            "body": "Arrume as fatias de tomate em um círculo.",
+            "tip": "Sobreponha levemente as fatias para misturar os sabores."
+          },
+          {
+            "title": "Adicione a burrata.",
+            "body": "Coloque a burrata no centro dos tomates.",
+            "tip": "Abra a burrata só na hora de servir para manter o centro cremoso."
+          },
+          {
+            "title": "Um pouco de verde.",
+            "body": "Rasgue as folhas de manjericão e espalhe sobre o prato.",
+            "tip": "Rasgue o manjericão com as mãos pouco antes de servir."
+          },
+          {
+            "title": "O toque final.",
+            "body": "Regue com azeite. Adicione sal e pimenta-do-reino a gosto.",
+            "tip": "Sirva logo, com os tomates em temperatura ambiente."
+          }
+        ]
+      }
+    }
+  },
+  "demo": {
+    "food": {
+      "pasta": "Macarrão",
+      "cherryTomatoes": "Tomates-cereja",
+      "burrata": "Burrata",
+      "basil": "Manjericão",
+      "garlic": "Alho",
+      "oliveOil": "Azeite",
+      "beans": "Feijão-branco",
+      "lemon": "Limão",
+      "spinach": "Espinafre"
+    }
+  },
+  "landing": {
+    "title": "Ideias frescas. Comida boa.",
+    "description": "Prepare algo gostoso com o que você já tem.",
+    "trySample": "Experimentar uma despensa de exemplo",
+    "createAccount": "Criar conta",
+    "noticeTitle": "Seus dados",
+    "noticeBody": "Suas preferências de tema e idioma ficam salvas neste navegador. Os formulários podem salvar rascunhos neste dispositivo, mas nunca salvam senhas nos rascunhos. A despensa de exemplo usa ingredientes predefinidos. Os dados da conta e da despensa ficam armazenados no serviço local. Ao entrar, um token é salvo neste navegador para restaurar sua sessão.",
+    "backHome": "Voltar ao início"
+  },
+  "owned": {
+    "saveFailed": "Não foi possível salvar. Seus dados continuam aqui. Tente novamente.",
+    "resetNote": "Esqueceu sua senha? Peça ajuda à pessoa responsável por esta demonstração local.",
+    "sessionTitle": "Entre Novamente",
+    "sessionBody": "Sua sessão expirou. Entre para continuar. Seu formulário continua aqui.",
+    "food": "Alimento",
+    "chooseFood": "Escolha um alimento ou digite um nome personalizado",
+    "customName": "Nome do Alimento",
+    "quantity": "Quantidade",
+    "unit": "Unidade",
+    "storage": "Local de Armazenamento",
+    "date": "Data (Opcional)",
+    "save": "Salvar Item",
+    "welcome": "Adicionamos os itens de exemplo para começar. Ajuste as quantidades e remova o que você não tem.",
+    "dismiss": "Dispensar",
+    "find": "Buscar Item",
+    "history": "Histórico",
+    "notLive": "Exibindo dados carregados anteriormente. A API local está indisponível.",
+    "empty": "Adicione alimentos à despensa ou limpe a busca para ver seus itens.",
+    "unknownDate": "Data desconhecida",
+    "used": "Marcar como Usado",
+    "edit": "Editar Item",
+    "discarded": "Marcar como Descartado",
+    "mistake": "Remover Entrada Incorreta",
+    "mistakeBody": "Remove o item sem registrar uso ou descarte.",
+    "add": "Adicionar Item",
+    "deleteHistory": "Excluir Registro",
+    "loadMore": "Carregar Mais",
+    "recorded": "Despensa atualizada.",
+    "uncertain": "Não foi possível confirmar o resultado. Atualize a despensa antes de tentar novamente.",
+    "undoFailed": "Não foi possível desfazer. O prazo de seis segundos pode ter terminado. Atualize para ver o estoque atual.",
+    "reviewBody": "Revise o que você usou. Ajuste quantidades, escolha outra compra, substitua ingredientes ou registre alimentos obtidos fora da despensa.",
+    "reviewEvery": "Escolha como usou cada ingrediente antes de confirmar.",
+    "useChoice": "Como Você Usou Este Ingrediente?",
+    "choose": "Escolha uma opção",
+    "fromPantry": "Usar Estoque da Despensa",
+    "omit": "Omitir Ingrediente",
+    "outside": "Obtido Fora da Despensa",
+    "noDeduction": "Não Deduzir",
+    "replace": "Substituir Ingrediente",
+    "original": "Manter Ingrediente Original",
+    "purchase": "Compra da Despensa",
+    "actualAmount": "Quantidade Usada",
+    "removeAllocation": "Remover Alocação",
+    "addAllocation": "Adicionar Alocação",
+    "replay": "O resultado é incerto. Tente a mesma confirmação novamente para evitar uma dedução duplicada.",
+    "approve": "Confirmar Preparo",
+    "reviewTitle": "Revisar Ingredientes Usados",
+    "preview": "Sua despensa está vazia. Estas sugestões usam os itens de exemplo. Adicione seus alimentos para receber sugestões pessoais.",
+    "cooked": "Preparei Esta Receita",
+    "favorite": "Adicionar aos Favoritos",
+    "unfavorite": "Remover dos Favoritos",
+    "itemActions": "Ações para {{name}}",
+    "categories": {
+      "produce": "Hortifrúti",
+      "meat": "Carnes",
+      "dairy": "Laticínios",
+      "pantry": "Despensa",
+      "spice": "Temperos",
+      "other": "Outros",
+      "frozen": "Congelados"
+    },
+    "usedHistory": "Usado",
+    "discardedHistory": "Descartado",
+    "historyEmpty": "Nenhum item usado ou descartado ainda."
+  }
+}

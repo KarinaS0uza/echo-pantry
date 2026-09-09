@@ -3,6 +3,9 @@
 .specify/
 data/
 planning/
+.planning/
+specs/
+/DECISIONS.md
 scripts/
 
 # Local browser QA evidence: screenshots, reports, and retest artifacts

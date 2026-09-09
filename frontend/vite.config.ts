@@ -18,7 +18,7 @@ export default defineConfig(({ mode }) => ({
     ],
     extensions: webExtensions,
   },
-  optimizeDeps: { esbuildOptions: { resolveExtensions: webExtensions } },
+  optimizeDeps: { extensions: ['.jsx'], include: ['@gluestack-ui/modal'], esbuildOptions: { resolveExtensions: webExtensions } },
   server: { host: 'localhost', port: 3000, strictPort: true },
   preview: { host: 'localhost', port: 3000, strictPort: true },
   test: {
@@ -31,7 +31,7 @@ export default defineConfig(({ mode }) => ({
       optimizer: {
         web: {
           enabled: true,
-          include: ['react-native', '@gluestack-ui/themed', 'lucide-react-native'],
+          include: ['react-native', '@gluestack-ui/themed', '@gluestack-ui/modal', '@react-native-aria/overlays', '@gluestack-style/react', '@gluestack-style/animation-resolver', 'lucide-react-native'],
         },
       },
     },

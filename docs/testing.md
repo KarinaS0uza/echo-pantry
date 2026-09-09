@@ -1,7 +1,8 @@
 # Testing and acceptance
 
-**Status:** Phase 1 setup checks are implemented. Product and browser acceptance checks
-are still pending; setup checks do not establish product acceptance.
+**Status:** Setup and Phase 2 foundation checks are implemented. The
+[foundation validation](foundation-validation.md) records passing checks and partial browser
+evidence, with three Phase 2 tasks still open. Product and release acceptance remain pending.
 
 ## Setup tests and database modes
 
@@ -16,16 +17,19 @@ teardown. These tests skip in the normal run, so both commands are required. The
 probe verifies a second connection can observe committed rows, contends with an active
 writer, and succeeds after rollback; product stock/idempotency tests remain future tasks.
 
-Minimal `tests/settings.py` is sufficient for setup. Phase 2 must add the application
-settings and installed apps there without removing the isolated database configuration in
-`tests/conftest.py`. Do not use the setup-only settings to claim API or migration coverage.
+`tests/settings.py` imports the real application settings from `config.base`, then overrides
+test credentials and isolated database configuration. `tests/conftest.py` preserves the
+temporary database modes. Foundation tests cover migrated reference models, health, JWT,
+CORS, scoped ownership, error handling, repeatable seeding and actual lock rollback.
 
 From `frontend/`, run `npm test`, `npm run lint`, and `npm run typecheck`. The test runner
 uses jsdom and Testing Library. Token-rule regression tests run the actual ESLint config
 against valid and invalid snippets, including nested components and primitive internals.
-`npm run build` runs lint and type checks before bundling; it requires Phase 2's app entry.
+`npm run build` runs lint and type checks before bundling the application.
 
-These checks cover tooling only. No screenshot report is created before a real browser run.
+Client, language, draft and shared-component tests complement tooling checks. The existing
+[Phase 2 browser report](../artifacts/browser-qa/2026-09-08-phase-2/report.md) records actual
+interactions and screenshots; it does not close the complete component or release gates.
 
 ## Sources of acceptance criteria
 

@@ -1,0 +1,1615 @@
+[
+  {
+    "id": "US-01",
+    "url": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": false,
+    "fresh": {
+      "id": "US-01",
+      "name": "Good Old-Fashioned Pancakes",
+      "sourceUrl": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
+      "mealGroup": "Breakfast",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Good Old-Fashioned Pancakes",
+      "sourceYield": "8",
+      "prepTime": "PT5M",
+      "cookTime": "PT15M",
+      "totalTime": "PT20M",
+      "ingredients": [
+        "1.5 cups all-purpose flour",
+        "3.5 teaspoons baking powder",
+        "1 tablespoon white sugar",
+        "0.25 teaspoon salt, or more to taste",
+        "1.25 cups milk",
+        "3 tablespoons butter, melted",
+        "1 egg"
+      ]
+    }
+  },
+  {
+    "id": "US-02",
+    "url": "https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": false,
+    "fresh": {
+      "id": "US-02",
+      "name": "Grilled Cheese Sandwich",
+      "sourceUrl": "https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/",
+      "mealGroup": "Lunch",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Grilled Cheese Sandwich",
+      "sourceYield": "2",
+      "prepTime": "PT5M",
+      "cookTime": "PT10M",
+      "totalTime": "PT15M",
+      "ingredients": [
+        "4 slices white bread",
+        "3 tablespoons butter, divided",
+        "2 slices Cheddar cheese"
+      ]
+    }
+  },
+  {
+    "id": "US-03",
+    "url": "https://www.allrecipes.com/recipe/16354/easy-meatloaf/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "US-03",
+      "name": "Easy Meatloaf",
+      "sourceUrl": "https://www.allrecipes.com/recipe/16354/easy-meatloaf/",
+      "mealGroup": "Dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Easy Meatloaf",
+      "sourceYield": [
+        "8",
+        "1 (9x5-inch) meatloaf"
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT60M",
+      "totalTime": "PT75M",
+      "ingredients": [
+        "1.5 pounds ground beef",
+        "1 egg",
+        "1 onion, chopped",
+        "1 cup milk",
+        "1 cup dried bread crumbs",
+        "salt and pepper to taste",
+        "0.333 cup ketchup",
+        "2 tablespoons brown sugar",
+        "2 tablespoons prepared mustard"
+      ]
+    }
+  },
+  {
+    "id": "US-04",
+    "url": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": false,
+    "fresh": {
+      "id": "US-04",
+      "name": "Delicious Egg Salad",
+      "sourceUrl": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/",
+      "mealGroup": "Lunch",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Delicious Egg Salad",
+      "sourceYield": "4",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "ingredients": [
+        "8 eggs",
+        "0.5 cup mayonnaise",
+        "0.25 cup chopped green onion",
+        "1 teaspoon prepared yellow mustard",
+        "0.25 teaspoon paprika",
+        "salt and pepper to taste"
+      ]
+    }
+  },
+  {
+    "id": "US-05",
+    "url": "https://www.allrecipes.com/mississippi-sloppy-joes-recipe-12028051",
+    "status": "collected",
+    "ingredientsUnchanged": false,
+    "yieldUnchanged": false,
+    "fresh": {
+      "id": "US-05",
+      "name": "Mississippi Sloppy Joes",
+      "sourceUrl": "https://www.allrecipes.com/mississippi-sloppy-joes-recipe-12028051",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Mississippi Sloppy Joes",
+      "sourceYield": "6",
+      "prepTime": "PT5M",
+      "cookTime": "PT15M",
+      "totalTime": "PT20M",
+      "ingredients": [
+        "1 Tablespoon olive oil",
+        "1/2 cup finely chopped onion",
+        "1- 1 1/2 pounds lean ground beef",
+        "1 1 ounce packet ranch seasoning mix",
+        "1 1 ounce packet dry au jus seasoning mix",
+        "1/2 cup chopped pepperonicini peppers",
+        "2 Tablespoons brine, or more to taste",
+        "3/4 cup water",
+        "1/2 teaspoon ground black pepper",
+        "2 Tablespoons ketchup",
+        "6 burger buns"
+      ]
+    }
+  },
+  {
+    "id": "US-06",
+    "url": "https://www.allrecipes.com/mississippi-chicken-salad-recipe-11976292",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": false,
+    "fresh": {
+      "id": "US-06",
+      "name": "Mississippi Chicken Salad",
+      "sourceUrl": "https://www.allrecipes.com/mississippi-chicken-salad-recipe-11976292",
+      "mealGroup": "Lunch",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Mississippi Chicken Salad",
+      "sourceYield": "6",
+      "prepTime": "PT900M",
+      "cookTime": null,
+      "totalTime": "PT75M",
+      "ingredients": [
+        "1/2 cup mayonnaise",
+        "1/2 cup sour cream",
+        "2 tablespoons brine from the jar of pepperoncini salad peppers",
+        "1 (1-ounce) package ranch dry salad dressing mix",
+        "1 1/2 teaspoon au jus seasoning mix",
+        "3 cups chopped cooked rotisserie chicken breast (about 1 pound)",
+        "3/4 cup bottled sliced pepperoncini salad peppers",
+        "1/4 cup chopped green onions",
+        "Crackers or bread, for serving"
+      ]
+    }
+  },
+  {
+    "id": "US-07",
+    "url": "https://www.allrecipes.com/southern-breakfast-potatoes-recipe-11907741",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": false,
+    "fresh": {
+      "id": "US-07",
+      "name": "Southern Breakfast Potatoes",
+      "sourceUrl": "https://www.allrecipes.com/southern-breakfast-potatoes-recipe-11907741",
+      "mealGroup": "Breakfast side",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Southern Breakfast Potatoes",
+      "sourceYield": "2",
+      "prepTime": "PT5M",
+      "cookTime": "PT20M",
+      "totalTime": "PT25M",
+      "ingredients": [
+        "1 large russet potato",
+        "2 teaspoons lemon juice",
+        "2 tablespoon olive oil, divided use (more if needed- see Cooks Notes)",
+        "1 tablespoon salted butter",
+        "1 teaspoon salt",
+        "1 teaspoon pepper",
+        "1 teaspoon cayenne",
+        "1/4 shredded sharp cheddar cheese",
+        "1/4 chopped green onion"
+      ]
+    }
+  },
+  {
+    "id": "US-08",
+    "url": "https://www.allrecipes.com/tex-mex-chicken-and-zucchini-recipe-11895713",
+    "status": "collected",
+    "ingredientsUnchanged": false,
+    "yieldUnchanged": false,
+    "fresh": {
+      "id": "US-08",
+      "name": "Tex-Mex Chicken and Zucchini",
+      "sourceUrl": "https://www.allrecipes.com/tex-mex-chicken-and-zucchini-recipe-11895713",
+      "mealGroup": "Dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Tex-Mex Chicken and Zucchini",
+      "sourceYield": "4",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "ingredients": [
+        "2 Tablespoons olive oil",
+        "1 cup diced onions",
+        "1 cup diced green bell pepper",
+        "2 cups sliced zucchini",
+        "3 cloves minced garlic",
+        "2 teaspoons spicy taco seasoning",
+        "2 teaspoons ground cumin",
+        "1 teaspoon ground coriander",
+        "1 10-ounce can Original Ro-Tel tomatoes and green chilies",
+        "1 15-ounce can black beans, rinsed and drained",
+        "1 11-ounce can Mexi-corn or whole kernel corn, drained",
+        "2 cups chopped cooked chicken",
+        "2 Tablespoons minced fresh cilantro",
+        "Juice of 1/2 lime",
+        "1/2 teaspoon black pepper, or to taste",
+        "1 ounce shredded cheddar",
+        "Lime wedges for optional garnish"
+      ]
+    }
+  },
+  {
+    "id": "US-09",
+    "url": "https://www.allrecipes.com/new-orleans-mac-and-cheese-recipe-11797804",
+    "status": "collected",
+    "ingredientsUnchanged": false,
+    "yieldUnchanged": false,
+    "fresh": {
+      "id": "US-09",
+      "name": "New Orleans Mac and Cheese",
+      "sourceUrl": "https://www.allrecipes.com/new-orleans-mac-and-cheese-recipe-11797804",
+      "mealGroup": "Side",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "New Orleans Mac and Cheese",
+      "sourceYield": "8",
+      "prepTime": "PT20M",
+      "cookTime": "PT50M",
+      "totalTime": "PT80M",
+      "ingredients": [
+        "2 tablespoons olive oil",
+        "1 cup diced onion",
+        "cup diced celery",
+        "3/4 cup diced bell pepper",
+        "4 tablespoons unsalted butter",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon freshly ground black pepper",
+        "1/4 teaspoon garlic powder",
+        "1/4 teaspoon ground cumin",
+        "1 teaspoon Kosher salt",
+        "1/4 cup all-purpose flour",
+        "1 cup heavy cream",
+        "4 cups milk",
+        "8 ounces sharp cheddar cheese",
+        "8 ounces Monterey jack cheese",
+        "1 pound dry bucatini pasta",
+        "1/4 teaspoon cayenne pepper, optional"
+      ]
+    }
+  },
+  {
+    "id": "KR-01",
+    "url": "https://www.koreanbapsang.com/kimchi-fried-rice-kimchi-bokkeum-bap/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "KR-01",
+      "name": "Kimchi Fried Rice",
+      "sourceUrl": "https://www.koreanbapsang.com/kimchi-fried-rice-kimchi-bokkeum-bap/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Kimchi Fried Rice (Kimchi Bokkeum Bap)",
+      "sourceYield": [
+        "2"
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "ingredients": [
+        "3 (or 4) strips of bacon, diced (or about 4 ounces ham or spam, or 1 can of tuna, drained) (See note 1 if using uncooked meat)",
+        "3/4 cup diced kimchi (See note 2)",
+        "1/4 small onion, diced",
+        "1 scallion, chopped",
+        "1 small carrot, finely chopped - optional",
+        "3 tablespoons (or 4) juice from kimchi, if available",
+        "1 tablespoon soy sauce",
+        "1 tablespoon gochujang (Korean chili pepper paste) (See note 3)",
+        "2.5 cups cooked rice (See note 4)",
+        "oil for stir-frying",
+        "1/2 tablespoon sesame oil",
+        "salt and pepper to taste",
+        "1 teaspoon sesame seeds",
+        "2 eggs, fried to taste",
+        "1 sheet roasted gim (dried seaweed sheet)"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 3 (or 4) strips of bacon, diced (or about 4 ounces ham or spam, or 1 can of tuna, drained) See note 1 if using uncooked meat",
+            "▢ 3/4 cup diced kimchi See note 2",
+            "▢ 1/4 small onion, diced",
+            "▢ 1 scallion, chopped",
+            "▢ 1 small carrot, finely chopped - optional",
+            "▢ 3 tablespoons (or 4) juice from kimchi, if available",
+            "▢ 1 tablespoon soy sauce",
+            "▢ 1 tablespoon gochujang (Korean chili pepper paste) See note 3",
+            "▢ 2.5 cups cooked rice See note 4",
+            "▢ oil for stir-frying",
+            "▢ 1/2 tablespoon sesame oil",
+            "▢ salt and pepper to taste"
+          ]
+        },
+        {
+          "name": "Optional",
+          "ingredients": [
+            "▢ 1 teaspoon sesame seeds",
+            "▢ 2 eggs, fried to taste",
+            "▢ 1 sheet roasted gim (dried seaweed sheet)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "KR-02",
+    "url": "https://www.koreanbapsang.com/japchae-korean-stir-fried-starch/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "KR-02",
+      "name": "Japchae",
+      "sourceUrl": "https://www.koreanbapsang.com/japchae-korean-stir-fried-starch/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Japchae (stir-fried starch noodles with beef and vegetables)",
+      "sourceYield": [
+        "4"
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "ingredients": [
+        "7 ounces Korean potato starch noodles (dangmyeon, 당면)",
+        "1 carrot (about 3 ounces)",
+        "1/2 medium onion, preferably sweet variety, (4 to 5 ounces)",
+        "2 scallions",
+        "4 ounces lean tender beef (sirloin, chuck tender, rib eye, etc.) (or pork loin)",
+        "3 to 4 ounces fresh shiitake mushrooms (or 4 to 5 dried shiitake, soaked until plump)",
+        "6 ounces fresh spinach (preferably a bunch of spinach)",
+        "oil for stir frying",
+        "salt",
+        "egg garnish (jidan) - optional",
+        "3.5 tablespoons soy sauce",
+        "3 tablespoons sugar (or brown sugar) (You can use a little less if you want. )",
+        "2 tablespoons sesame oil",
+        "2 teaspoons minced garlic",
+        "1 tablespoon roasted sesame seeds",
+        "black pepper to taste"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 7 ounces Korean potato starch noodles (dangmyeon, 당면)",
+            "▢ 1 carrot (about 3 ounces)",
+            "▢ 1/2 medium onion, preferably sweet variety, (4 to 5 ounces)",
+            "▢ 2 scallions",
+            "▢ 4 ounces lean tender beef (sirloin, chuck tender, rib eye, etc.) or pork loin",
+            "▢ 3 to 4 ounces fresh shiitake mushrooms (or 4 to 5 dried shiitake, soaked until plump) Or oyster mushrooms, wood ear mushrooms or button mushrooms. See note 1.",
+            "▢ 6 ounces fresh spinach (preferably a bunch of spinach)",
+            "▢ oil for stir frying",
+            "▢ salt",
+            "▢ egg garnish (jidan) - optional"
+          ]
+        },
+        {
+          "name": "Sauce",
+          "ingredients": [
+            "▢ 3.5 tablespoons soy sauce",
+            "▢ 3 tablespoons sugar (or brown sugar) You can use a little less if you want.",
+            "▢ 2 tablespoons sesame oil",
+            "▢ 2 teaspoons minced garlic",
+            "▢ 1 tablespoon roasted sesame seeds",
+            "▢ black pepper to taste"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "KR-03",
+    "url": "https://www.koreanbapsang.com/oi-muchim-korean-style-cucumber-salad/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "KR-03",
+      "name": "Oi Muchim - Spicy Cucumber Salad",
+      "sourceUrl": "https://www.koreanbapsang.com/oi-muchim-korean-style-cucumber-salad/",
+      "mealGroup": "Side",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Oi Muchim (Spicy Cucumber Salad)",
+      "sourceYield": [
+        "4"
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "ingredients": [
+        "1 Korean cucumber or 2 Kirby (pickling cucumbers)",
+        "1 teaspoon salt",
+        "1 tablespoon Korean red chili pepper flakes (gochugaru (고추가루) – use less if desired)",
+        "1 tablespoon chopped scallion",
+        "1/2 teaspoon garlic minced",
+        "1 teaspoon vinegar",
+        "1/2 teaspoon sugar",
+        "1 teaspoon sesame seeds",
+        "1 teaspoon sesame oil"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 1 Korean cucumber or 2 Kirby pickling cucumbers",
+            "▢ 1 teaspoon salt",
+            "▢ 1 tablespoon Korean red chili pepper flakes gochugaru (고추가루) – use less if desired",
+            "▢ 1 tablespoon chopped scallion",
+            "▢ 1/2 teaspoon garlic minced",
+            "▢ 1 teaspoon vinegar",
+            "▢ 1/2 teaspoon sugar",
+            "▢ 1 teaspoon sesame seeds",
+            "▢ 1 teaspoon sesame oil"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "KR-04",
+    "url": "https://www.koreanbapsang.com/sundubu-gyeran-guk-soft-tofu-and-egg-soup/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "KR-04",
+      "name": "Sundubu Gyeran Guk - Soft Tofu and Egg Soup",
+      "sourceUrl": "https://www.koreanbapsang.com/sundubu-gyeran-guk-soft-tofu-and-egg-soup/",
+      "mealGroup": "Breakfast / lunch",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Sundubu Gyeran Guk (Soft tofu and egg soup)",
+      "sourceYield": [
+        "2"
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": null,
+      "ingredients": [
+        "1.5 cups anchovy broth (4 or 5 medieum dried anchovies and a small piece (about 2 inch square) dried kelp (dasima)",
+        "1 small tomato (see note)",
+        "2 ounces green cabbage",
+        "1 package sundubu",
+        "1 teaspoon minced garlic",
+        "1 teaspoon saeujeot (or fish sauce or Korean soup soy sauce)",
+        "2 eggs",
+        "1 small scallion, chopped",
+        "1 teaspoon sesame oil",
+        "½ teaspoon sesame seeds - optional"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 1.5 cups anchovy broth (4 or 5 medieum dried anchovies and a small piece (about 2 inch square) dried kelp (dasima) or chicken or vegetable broth",
+            "▢ 1 small tomato see note",
+            "▢ 2 ounces green cabbage",
+            "▢ 1 package sundubu",
+            "▢ 1 teaspoon minced garlic",
+            "▢ 1 teaspoon saeujeot (or fish sauce or Korean soup soy sauce)",
+            "▢ 2 eggs",
+            "▢ 1 small scallion, chopped",
+            "▢ 1 teaspoon sesame oil",
+            "▢ ½ teaspoon sesame seeds - optional"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "KR-05",
+    "url": "https://www.koreanbapsang.com/bulgogi-deopbap-bulgogi-rice-bowl/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "KR-05",
+      "name": "Bulgogi Deopbap - Bulgogi Rice Bowl",
+      "sourceUrl": "https://www.koreanbapsang.com/bulgogi-deopbap-bulgogi-rice-bowl/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Bulgogi Deopbap (Bulgogi Rice Bowl)",
+      "sourceYield": [
+        "4"
+      ],
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": null,
+      "ingredients": [
+        "1 pound thinly sliced beef (rib eye, top sirloin, chuck tender, etc.) (Note 1)",
+        "2 scallions cut into 2-inch pieces",
+        "1/2 small onion thinly sliced",
+        "4 servings of cooked rice",
+        "3 tablespoons soy sauce",
+        "2 tablespoons water",
+        "2 tablespoons sugar ((or replace 1 TB with honey))",
+        "1 tablespoon rice wine (mirin or mirim) (or mirin)",
+        "1 tablespoon minced garlic",
+        "1 tablespoon sesame oil",
+        "1 teaspoon sesame seeds",
+        "2 tablespoons grated Asian pear (you can use more) (optional)",
+        "⅛ teaspoon pepper",
+        "1/2 cup water (or anchovy, dasima, or vegetable broth) (Note 2 )",
+        "1 teaspoon soy sauce",
+        "1 teaspoon sugar (omit for less sweet dish)",
+        "4 ounces mushrooms (white, crimini, or shiitaki, oyster, etc.), thinly sliced",
+        "1 small carrot, thinly sliced"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 1 pound thinly sliced beef (rib eye, top sirloin, chuck tender, etc.) Note 1",
+            "▢ 2 scallions cut into 2-inch pieces",
+            "▢ 1/2 small onion thinly sliced",
+            "▢ 4 servings of cooked rice"
+          ]
+        },
+        {
+          "name": "Marinade",
+          "ingredients": [
+            "▢ 3 tablespoons soy sauce",
+            "▢ 2 tablespoons water",
+            "▢ 2 tablespoons sugar (or replace 1 TB with honey)",
+            "▢ 1 tablespoon rice wine (mirin or mirim) or mirin",
+            "▢ 1 tablespoon minced garlic",
+            "▢ 1 tablespoon sesame oil",
+            "▢ 1 teaspoon sesame seeds",
+            "▢ 2 tablespoons grated Asian pear (you can use more) optional",
+            "▢ ⅛ teaspoon pepper"
+          ]
+        },
+        {
+          "name": "Sauce",
+          "ingredients": [
+            "▢ 1/2 cup water (or anchovy, dasima, or vegetable broth) Note 2",
+            "▢ 1 teaspoon soy sauce",
+            "▢ 1 teaspoon sugar (omit for less sweet dish)"
+          ]
+        },
+        {
+          "name": "Vegetables (Note 3)",
+          "ingredients": [
+            "▢ 4 ounces mushrooms (white, crimini, or shiitaki, oyster, etc.), thinly sliced",
+            "▢ 1 small carrot, thinly sliced"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "KR-06",
+    "url": "https://www.koreanbapsang.com/beoseot-jeongol-mushroom-hot-pot/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "KR-06",
+      "name": "Beoseot Jeongol - Mushroom Hot Pot",
+      "sourceUrl": "https://www.koreanbapsang.com/beoseot-jeongol-mushroom-hot-pot/",
+      "mealGroup": "Dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Beoseot Jeongol (Mushroom Hot Pot)",
+      "sourceYield": [
+        "2"
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "ingredients": [
+        "1/2 small onion (cut into big chunks)",
+        "3 ounces Korean radish ( cut into big chunks)",
+        "1 piece dried kelp (about 3 inch square), dashima",
+        "a few mushroom stems",
+        "1 tablespoon soup soy sauce",
+        "salt and pepper to taste",
+        "12 ounces assorted mushrooms (button, shiitake, oyster, crimini, enoki, king, etc.)",
+        "2 large napa cabbage leaves (or green cabbage or bok choy)",
+        "1/2 medium onion (sliced into 1/2-inch thickness)",
+        "1 small carrot (thinly sliced)",
+        "2 scallions (cut into small pieces)",
+        "2 ounces ssukgat (쑥갓, crown daisies), watercress, or minari (미나리, water dropwort)",
+        "1 teaspoon minced garlic",
+        "1/2 package tofu (about 8 ounces)",
+        "2 ounces dangmyeon (당면, sweet potato starch noodles)"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Vegetable broth (see note 1)",
+          "ingredients": [
+            "▢ 1/2 small onion cut into big chunks",
+            "▢ 3 ounces Korean radish cut into big chunks",
+            "▢ 1 piece dried kelp (about 3 inch square), dashima",
+            "▢ a few mushroom stems",
+            "▢ 1 tablespoon soup soy sauce",
+            "▢ salt and pepper to taste"
+          ]
+        },
+        {
+          "name": "Vegetables:",
+          "ingredients": [
+            "▢ 12 ounces assorted mushrooms (button, shiitake, oyster, crimini, enoki, king, etc.)",
+            "▢ 2 large napa cabbage leaves (or green cabbage or bok choy)",
+            "▢ 1/2 medium onion sliced into 1/2-inch thickness",
+            "▢ 1 small carrot thinly sliced",
+            "▢ 2 scallions cut into small pieces",
+            "▢ 2 ounces ssukgat (쑥갓, crown daisies), watercress, or minari (미나리, water dropwort)",
+            "▢ 1 teaspoon minced garlic"
+          ]
+        },
+        {
+          "name": "Other ingredient options (see note 2)",
+          "ingredients": [
+            "▢ 1/2 package tofu (about 8 ounces)",
+            "▢ 2 ounces dangmyeon (당면, sweet potato starch noodles)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "KR-07",
+    "url": "https://www.koreanbapsang.com/kimchi-jjigae-kimchi-stew/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "KR-07",
+      "name": "Kimchi Jjigae - Kimchi Stew",
+      "sourceUrl": "https://www.koreanbapsang.com/kimchi-jjigae-kimchi-stew/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Kimchi Jjigae (Kimchi Stew)",
+      "sourceYield": [
+        "2"
+      ],
+      "prepTime": null,
+      "cookTime": null,
+      "totalTime": null,
+      "ingredients": [
+        "2 cups packed bite size kimchi (fully fermented)",
+        "4 ounces fresh pork belly (or other pork meat with some fat or other protein choice)",
+        "1 to 3 teaspoons gochugaru (Korean red chili pepper flakes) ( adjust to taste or omit)",
+        "1 teaspoon minced garlic",
+        "1 tablespoon cooking oil",
+        "1/2 cup juice from kimchi (if available)",
+        "6 ounces tofu",
+        "2 scallions",
+        "salt (or a little bit of soup soy sauce or regular soy sauce) and pepper to taste"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 2 cups packed bite size kimchi fully fermented",
+            "▢ 4 ounces fresh pork belly or other pork meat with some fat or other protein choice",
+            "▢ 1 to 3 teaspoons gochugaru (Korean red chili pepper flakes) adjust to taste or omit",
+            "▢ 1 teaspoon minced garlic",
+            "▢ 1 tablespoon cooking oil",
+            "▢ 1/2 cup juice from kimchi if available",
+            "▢ 6 ounces tofu",
+            "▢ 2 scallions",
+            "▢ salt (or a little bit of soup soy sauce or regular soy sauce) and pepper to taste"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "IN-01",
+    "url": "https://www.indianhealthyrecipes.com/aloo-gobi-recipe/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "IN-01",
+      "name": "Aloo Gobi",
+      "sourceUrl": "https://www.indianhealthyrecipes.com/aloo-gobi-recipe/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Aloo Gobi Recipe (Cauliflower Potato Curry)",
+      "sourceYield": [
+        "3"
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "ingredients": [
+        "1½ cup (2 medium) potatoes ((cubed to ¾ x ¾ inch))",
+        "2 cups (180 grams) cauliflower florets ((gobi, chopped to 1½ inch) )",
+        "¾ to 1 cup (1 medium) onion ((chopped finely) )",
+        "¾ to 1 cup (2 medium) tomatoes ((finely chopped) or ¼ cup tomato puree or 2 tbsp tomato paste mixed with 3 tbsps water)",
+        "½ tablespoon (½ inch) ginger (peeled & minced or grated)",
+        "½ tablespoon (3 to 4) garlic (cloves, peeled & minced or pressed)",
+        "1 green chili (slit or chopped (optional))",
+        "2 tablespoons coriander leaves (chopped finely)",
+        "½ to ¾ teaspoon salt ((adjust to taste))",
+        "2 to 3 tablespoons oil",
+        "lemon juice to serve ((optional))",
+        "½ teaspoon cumin seeds ((jeera))",
+        "¾ to 1¼ teaspoon Kashmiri red chili powder ((adjust to taste))",
+        "¼ teaspoon turmeric",
+        "1 to 1½ teaspoon garam masala ((adjust to taste))",
+        "¾ to 1 teaspoon coriander powder",
+        "½ to ¾ teaspoon roasted cumin powder ((jeera powder) (updated))",
+        "1 tablespoon kasuri methi ((dried fenugreek leaves) (skip if you don't have))",
+        "½ to 1 teaspoon amchur ((Optional, Dried mango powder))"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 1½ cup (2 medium) potatoes (cubed to ¾ x ¾ inch)",
+            "▢ 2 cups (180 grams) cauliflower florets (gobi, chopped to 1½ inch)",
+            "▢ ¾ to 1 cup (1 medium) onion (chopped finely)",
+            "▢ ¾ to 1 cup (2 medium) tomatoes (finely chopped) or ¼ cup tomato puree or 2 tbsp tomato paste mixed with 3 tbsps water",
+            "▢ ½ tablespoon (½ inch) ginger peeled & minced or grated",
+            "▢ ½ tablespoon (3 to 4) garlic cloves, peeled & minced or pressed",
+            "▢ 1 green chili slit or chopped (optional)",
+            "▢ 2 tablespoons coriander leaves chopped finely",
+            "▢ ½ to ¾ teaspoon salt (adjust to taste)",
+            "▢ 2 to 3 tablespoons oil",
+            "▢ lemon juice to serve (optional)"
+          ]
+        },
+        {
+          "name": "Spices",
+          "ingredients": [
+            "▢ ½ teaspoon cumin seeds (jeera)",
+            "▢ ¾ to 1¼ teaspoon Kashmiri red chili powder (adjust to taste)",
+            "▢ ¼ teaspoon turmeric",
+            "▢ 1 to 1½ teaspoon garam masala (adjust to taste)",
+            "▢ ¾ to 1 teaspoon coriander powder",
+            "▢ ½ to ¾ teaspoon roasted cumin powder (jeera powder) (updated)",
+            "▢ 1 tablespoon kasuri methi (dried fenugreek leaves) (skip if you don't have)",
+            "▢ ½ to 1 teaspoon amchur (Optional, Dried mango powder)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "IN-02",
+    "url": "https://www.indianhealthyrecipes.com/palak-paneer-recipe-easy-paneer-recipes-step-by-step-pics/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "IN-02",
+      "name": "Palak Paneer",
+      "sourceUrl": "https://www.indianhealthyrecipes.com/palak-paneer-recipe-easy-paneer-recipes-step-by-step-pics/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Palak Paneer Recipe (Spinach Paneer)",
+      "sourceYield": [
+        "2",
+        "2 to 3"
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "ingredients": [
+        "150 grams (1¼ cups) paneer ( (Indian cottage cheese))",
+        "3½ to 4 cups (100 to 120 grams) palak ((spinach) )",
+        "2 tablespoons oil ((or half oil & half butter))",
+        "2 green chilies ((deseeded) (less spicy kind))",
+        "¾ cup ( 90 grams, 1 small) onions ((fine chopped))",
+        "½ cup (1 small) tomatoes ((deseeded & chopped or pureed))",
+        "¾ teaspoon ginger garlic paste ((read notes for substitute))",
+        "½ teaspoon salt ((use as per your taste))",
+        "8 to 10 cashewnuts ((read notes for substitutes))",
+        "½ to ¾ teaspoon garam masala ((adjust to taste))",
+        "½ teaspoon kasuri methi ((dried fenugreek leaves) (skip if you don't have))",
+        "¼ cup water (to blend spinach)",
+        "¾ cup water (to cook the gravy)",
+        "3 tablespoons cream ((optional))",
+        "⅛ teaspoon cumin seeds ((jeera) (optional))",
+        "2 green cardamoms ((elaichi) (optional))",
+        "1 inch cinnamon ((dalchini) (optional))",
+        "2 cloves ((laung) (optional))"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 150 grams (1¼ cups) paneer (Indian cottage cheese)",
+            "▢ 3½ to 4 cups (100 to 120 grams) palak (spinach)",
+            "▢ 2 tablespoons oil (or half oil & half butter)",
+            "▢ 2 green chilies (deseeded) (less spicy kind)",
+            "▢ ¾ cup ( 90 grams, 1 small) onions (fine chopped)",
+            "▢ ½ cup (1 small) tomatoes (deseeded & chopped or pureed)",
+            "▢ ¾ teaspoon ginger garlic paste (read notes for substitute)",
+            "▢ ½ teaspoon salt (use as per your taste)",
+            "▢ 8 to 10 cashewnuts (read notes for substitutes)",
+            "▢ ½ to ¾ teaspoon garam masala (adjust to taste)",
+            "▢ ½ teaspoon kasuri methi (dried fenugreek leaves) (skip if you don't have)",
+            "▢ ¼ cup water to blend spinach",
+            "▢ ¾ cup water to cook the gravy",
+            "▢ 3 tablespoons cream (optional)"
+          ]
+        },
+        {
+          "name": "(Optional) Whole spices for palak paneer",
+          "ingredients": [
+            "▢ ⅛ teaspoon cumin seeds (jeera) (optional)",
+            "▢ 2 green cardamoms (elaichi) (optional)",
+            "▢ 1 inch cinnamon (dalchini) (optional)",
+            "▢ 2 cloves (laung) (optional)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "IN-03",
+    "url": "https://www.indianhealthyrecipes.com/chana-masala/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "IN-03",
+      "name": "Chana Masala",
+      "sourceUrl": "https://www.indianhealthyrecipes.com/chana-masala/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Authentic Chana Masala (Chickpea Masala)",
+      "sourceYield": [
+        "4"
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT40M",
+      "totalTime": "PT50M",
+      "ingredients": [
+        "1 cup chana ((dried raw chickpeas) (or 3 cups soaked or 2 - 15 oz cans))",
+        "1½ cups water ((to pressure cook, + more to make gravy))",
+        "2 tablespoon oil (or as needed)",
+        "1 small bay leaf ((optional))",
+        "1 inch cinnamon ((optional))",
+        "2 cloves ((optional))",
+        "2 green cardamoms ((optional))",
+        "1½ cups onions ((fine chopped, 2 large))",
+        "1 green chili (slit (optional))",
+        "¾ to 1 tablespoon ginger garlic paste ((or ½ tbsp each fine chopped) )",
+        "1½ cups tomatoes ((fine chopped, 3 large or 1½ cups tomato puree or whole peeled tomatoes))",
+        "¾ teaspoon salt ((+ more to adjust to taste))",
+        "¼ teaspoon turmeric",
+        "1½ teaspoons Kashmiri red chili powder ((adjust to taste))",
+        "1 teaspoon garam masala ((adjust to taste))",
+        "2 teaspoon coriander powder",
+        "½ teaspoon cumin powder ((optional))",
+        "1 teaspoon kasuri methi ((dried fenugreek leaves) (optional))",
+        "¼ teaspoon amchur ((dried mango powder) (optional))",
+        "2 tbsp coriander leaves ((cilantro chopped finely))"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 1 cup chana (dried raw chickpeas) (or 3 cups soaked or 2 – 15 oz cans)",
+            "▢ 1½ cups water (to pressure cook, + more to make gravy)"
+          ]
+        },
+        {
+          "name": "For the Masala",
+          "ingredients": [
+            "▢ 2 tablespoon oil or as needed",
+            "▢ 1 small bay leaf (optional)",
+            "▢ 1 inch cinnamon (optional)",
+            "▢ 2 cloves (optional)",
+            "▢ 2 green cardamoms (optional)",
+            "▢ 1½ cups onions (fine chopped, 2 large)",
+            "▢ 1 green chili slit (optional)",
+            "▢ ¾ to 1 tablespoon ginger garlic paste (or ½ tbsp each fine chopped)",
+            "▢ 1½ cups tomatoes (fine chopped, 3 large or 1½ cups tomato puree or whole peeled tomatoes)",
+            "▢ ¾ teaspoon salt (+ more to adjust to taste)",
+            "▢ ¼ teaspoon turmeric",
+            "▢ 1½ teaspoons Kashmiri red chili powder (adjust to taste)",
+            "▢ 1 teaspoon garam masala (adjust to taste)",
+            "▢ 2 teaspoon coriander powder",
+            "▢ ½ teaspoon cumin powder (optional)",
+            "▢ 1 teaspoon kasuri methi (dried fenugreek leaves) (optional)",
+            "▢ ¼ teaspoon amchur (dried mango powder) (optional)",
+            "▢ 2 tbsp coriander leaves (cilantro chopped finely)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "IN-04",
+    "url": "https://www.indianhealthyrecipes.com/masoor-dal-recipe/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "IN-04",
+      "name": "Masoor Dal",
+      "sourceUrl": "https://www.indianhealthyrecipes.com/masoor-dal-recipe/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Masoor Dal Recipe (Red Lentil Dal)",
+      "sourceYield": [
+        "2",
+        "2 to 3"
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT20M",
+      "totalTime": "PT25M",
+      "ingredients": [
+        "½ cup (95 grams) masoor dal ( (red lentils))",
+        "2 tablespoons (23 grams) moong dal ((optional))",
+        "2 medium (½ to ¾ cup) tomatoes ((deseeded & chopped))",
+        "1 green chili ((optional))",
+        "1¼ to 1½ cup water ((or 1 cup for IP + ¼ cup if using moong dal))",
+        "1 to 2 tablespoon ghee (or (1 tbsp oil or 2 tbsps butter))",
+        "1 dried red chili (broken)",
+        "2 garlic (cloves chopped)",
+        "¼ teaspoon mustard seeds ((optional))",
+        "½ teaspoon cumin seeds",
+        "1 pinch asafoetida ((hing))",
+        "½ teaspoon salt ((adjust to taste))",
+        "¼ to ½ teaspoon Kashmiri red chili powder ((use up to ¾ for heat, adjust to taste))",
+        "¼ teaspoon turmeric",
+        "⅛ teaspoon garam masala ((more if you want))",
+        "½ teaspoon kasuri methi ((dried fenugreek leaves))",
+        "2 tablespoons coriander leaves (fine chopped, to garnish)",
+        "1 to 2 tablespoons lemon juice (to serve)"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ ½ cup (95 grams) masoor dal (red lentils)",
+            "▢ 2 tablespoons (23 grams) moong dal (optional)",
+            "▢ 2 medium (½ to ¾ cup) tomatoes (deseeded & chopped)",
+            "▢ 1 green chili (optional)",
+            "▢ 1¼ to 1½ cup water (or 1 cup for IP + ¼ cup if using moong dal)"
+          ]
+        },
+        {
+          "name": "To Temper",
+          "ingredients": [
+            "▢ 1 to 2 tablespoon ghee or (1 tbsp oil or 2 tbsps butter)",
+            "▢ 1 dried red chili broken",
+            "▢ 2 garlic cloves chopped",
+            "▢ ¼ teaspoon mustard seeds (optional)",
+            "▢ ½ teaspoon cumin seeds",
+            "▢ 1 pinch asafoetida (hing)",
+            "▢ ½ teaspoon salt (adjust to taste)",
+            "▢ ¼ to ½ teaspoon Kashmiri red chili powder (use up to ¾ for heat, adjust to taste)",
+            "▢ ¼ teaspoon turmeric",
+            "▢ ⅛ teaspoon garam masala (more if you want)",
+            "▢ ½ teaspoon kasuri methi (dried fenugreek leaves)",
+            "▢ 2 tablespoons coriander leaves fine chopped, to garnish",
+            "▢ 1 to 2 tablespoons lemon juice to serve"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "IN-05",
+    "url": "https://www.indianhealthyrecipes.com/punjabi-egg-curry-anda-curry-dhaba-style/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "IN-05",
+      "name": "Egg Curry",
+      "sourceUrl": "https://www.indianhealthyrecipes.com/punjabi-egg-curry-anda-curry-dhaba-style/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Egg Curry Recipe",
+      "sourceYield": [
+        "5"
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "ingredients": [
+        "4 to 5 boiled eggs",
+        "2 tablespoons oil",
+        "1 teaspoon ghee (or oil)",
+        "1¼ cups onions (fine chopped or 2 medium onions diced, boiled & pureed)",
+        "1 cup tomatoes (finely chopped or 3 medium tomatoes pureed)",
+        "1 green chilli ((optional) chopped or slit)",
+        "1 teaspoon ginger garlic paste (or finely minced )",
+        "½ teaspoon salt ((adjust to taste))",
+        "1 to 1 ¼ cup water ((adjust slightly as needed))",
+        "1 tablespoons coriander leaves (chopped finely)",
+        "¼ teaspoon Kasuri methi ((dried fenugreek leaves, optional))",
+        "½ teaspoon sugar ((optional))",
+        "4 tablespoons cream (or 10 cashews blended with ½ cup water (optional))",
+        "1 small bay leaf",
+        "1 small cinnamon piece",
+        "2 green cardamoms",
+        "½ to 1 teaspoon red chilli powder",
+        "½ to 1 teaspoon garam masala ((refer notes))",
+        "½ to 1 teaspoon coriander powder ((optional))",
+        "⅛ teaspoon turmeric"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 4 to 5 boiled eggs",
+            "▢ 2 tablespoons oil",
+            "▢ 1 teaspoon ghee or oil",
+            "▢ 1¼ cups onions fine chopped or 2 medium onions diced, boiled & pureed",
+            "▢ 1 cup tomatoes finely chopped or 3 medium tomatoes pureed",
+            "▢ 1 green chilli (optional) chopped or slit",
+            "▢ 1 teaspoon ginger garlic paste or finely minced",
+            "▢ ½ teaspoon salt (adjust to taste)",
+            "▢ 1 to 1 ¼ cup water (adjust slightly as needed)",
+            "▢ 1 tablespoons coriander leaves chopped finely",
+            "▢ ¼ teaspoon Kasuri methi (dried fenugreek leaves, optional)",
+            "▢ ½ teaspoon sugar (optional)",
+            "▢ 4 tablespoons cream or 10 cashews blended with ½ cup water (optional)"
+          ]
+        },
+        {
+          "name": "Whole spices (skip if you do not have)",
+          "ingredients": [
+            "▢ 1 small bay leaf",
+            "▢ 1 small cinnamon piece",
+            "▢ 2 green cardamoms"
+          ]
+        },
+        {
+          "name": "Spice powders",
+          "ingredients": [
+            "▢ ½ to 1 teaspoon red chilli powder",
+            "▢ ½ to 1 teaspoon garam masala (refer notes)",
+            "▢ ½ to 1 teaspoon coriander powder (optional)",
+            "▢ ⅛ teaspoon turmeric"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "IN-06",
+    "url": "https://www.indianhealthyrecipes.com/tomato-rice-recipe/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "IN-06",
+      "name": "Tomato Rice",
+      "sourceUrl": "https://www.indianhealthyrecipes.com/tomato-rice-recipe/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Tomato Rice Recipe (Indian Style)",
+      "sourceYield": [
+        "3"
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "ingredients": [
+        "1½ cups aged basmati rice ((or any non-sticky rice, refer notes))",
+        "2 tablespoons oil (or ghee)",
+        "1 medium onion ((chopped or sliced))",
+        "1 green chili ((slit, optional))",
+        "1 tablespoon ginger garlic paste (or ½ tablespoon each fine grated)",
+        "1 cup tomatoes ((2 to 3 medium sized) (chopped or pureed))",
+        "¾ teaspoon salt ( (adjust to taste))",
+        "¾ to 1 teaspoon garam masala (powder or curry powder)",
+        "½ to 1 teaspoon red chili powder (or paprika (reduce for less spicy))",
+        "¼ teaspoon Turmeric ((haldi))",
+        "2½ cups water for cooker ((3 cups for pot & 1¾ cups + 2 tbsp for Instapot))",
+        "3 tablespoon coriander leaves ((cilantro) finely chopped)",
+        "1 tablespoon lemon juice ((optional))",
+        "12 whole cashewnuts ((split & use) (optional))",
+        "1 small bay leaf (or curry leaves)",
+        "¾ teaspoon cumin seeds ((jeera))",
+        "1 inch cinnamon piece ((dalchini))",
+        "3 green cardamoms ((elaichi))",
+        "3 cloves ((laung) )"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 1½ cups aged basmati rice (or any non-sticky rice, refer notes)",
+            "▢ 2 tablespoons oil or ghee",
+            "▢ 1 medium onion (chopped or sliced)",
+            "▢ 1 green chili (slit, optional)",
+            "▢ 1 tablespoon ginger garlic paste or ½ tablespoon each fine grated",
+            "▢ 1 cup tomatoes (2 to 3 medium sized) (chopped or pureed)",
+            "▢ ¾ teaspoon salt (adjust to taste)",
+            "▢ ¾ to 1 teaspoon garam masala powder or curry powder",
+            "▢ ½ to 1 teaspoon red chili powder or paprika (reduce for less spicy)",
+            "▢ ¼ teaspoon Turmeric (haldi)",
+            "▢ 2½ cups water for cooker (3 cups for pot & 1¾ cups + 2 tbsp for Instapot)",
+            "▢ 3 tablespoon coriander leaves (cilantro) finely chopped",
+            "▢ 1 tablespoon lemon juice (optional)",
+            "▢ 12 whole cashewnuts (split & use) (optional)"
+          ]
+        },
+        {
+          "name": "Whole spices (Omit if you don't have)",
+          "ingredients": [
+            "▢ 1 small bay leaf or curry leaves",
+            "▢ ¾ teaspoon cumin seeds (jeera)",
+            "▢ 1 inch cinnamon piece (dalchini)",
+            "▢ 3 green cardamoms (elaichi)",
+            "▢ 3 cloves (laung)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "IN-07",
+    "url": "https://www.indianhealthyrecipes.com/pulao-recipe-veg-pulao-recipe/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "IN-07",
+      "name": "Vegetable Pulao",
+      "sourceUrl": "https://www.indianhealthyrecipes.com/pulao-recipe-veg-pulao-recipe/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Pulao Recipe | Veg Pulao | Vegetable Pulao | Pulav",
+      "sourceYield": [
+        "3"
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "ingredients": [
+        "1½ cups basmati rice ((aged rice))",
+        "2 tablespoons oil (or ghee)",
+        "salt (as needed)",
+        "2 ½ cups water (for pressure cooker ( 2¾ cups for pot, 1¾ cups for Instant pot))",
+        "1½ teaspoons ginger garlic paste",
+        "1 medium onion (thinly sliced)",
+        "2 green chilies (slit or as needed)",
+        "1 medium carrot ((¾ cup chopped))",
+        "4 medium french beans ((½ cup chopped to 1 inch))",
+        "½ cup green peas",
+        "1 small potato (cubed (optional))",
+        "3 tablespoons mint ((pudina, finely chopped) (or coriander leaves))",
+        "1 bay leaf ((tej patta))",
+        "¾ teaspoon shahi jeera ((caraway seeds) (substitute cumin seeds))",
+        "4 green cardamoms ((elaichi))",
+        "4 cloves ((laung))",
+        "2 inch cinnamon ((dalchini))",
+        "1 star anise ((chakri phool) (optional, but recommended))",
+        "1 strand mace ((javithri, optional))",
+        "1 pinch nut meg ((jaiphal) (optional))",
+        "2 pinches stone flower ((dagad phool - optional))",
+        "½ teaspoon fennel seeds powder ((saunf powder - optional))"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "▢ 1½ cups basmati rice (aged rice)",
+            "▢ 2 tablespoons oil or ghee",
+            "▢ salt as needed",
+            "▢ 2 ½ cups water for pressure cooker ( 2¾ cups for pot, 1¾ cups for Instant pot)",
+            "▢ 1½ teaspoons ginger garlic paste"
+          ]
+        },
+        {
+          "name": "Vegetables & herbs",
+          "ingredients": [
+            "▢ 1 medium onion thinly sliced",
+            "▢ 2 green chilies slit or as needed",
+            "▢ 1 medium carrot (¾ cup chopped)",
+            "▢ 4 medium french beans (½ cup chopped to 1 inch)",
+            "▢ ½ cup green peas",
+            "▢ 1 small potato cubed (optional)",
+            "▢ 3 tablespoons mint (pudina, finely chopped) (or coriander leaves)"
+          ]
+        },
+        {
+          "name": "Whole spices for veg pulao",
+          "ingredients": [
+            "▢ 1 bay leaf (tej patta)",
+            "▢ ¾ teaspoon shahi jeera (caraway seeds) (substitute cumin seeds)",
+            "▢ 4 green cardamoms (elaichi)",
+            "▢ 4 cloves (laung)",
+            "▢ 2 inch cinnamon (dalchini)",
+            "▢ 1 star anise (chakri phool) (optional, but recommended)",
+            "▢ 1 strand mace (javithri, optional)",
+            "▢ 1 pinch nut meg (jaiphal) (optional)",
+            "▢ 2 pinches stone flower (dagad phool – optional)",
+            "▢ ½ teaspoon fennel seeds powder (saunf powder – optional)"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "BR-01",
+    "url": "https://braziliankitchenabroad.com/brazilian-white-rice/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "BR-01",
+      "name": "Brazilian Rice",
+      "sourceUrl": "https://braziliankitchenabroad.com/brazilian-white-rice/",
+      "mealGroup": "Side",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Brazilian Rice Recipe",
+      "sourceYield": [
+        "3",
+        "3 cups"
+      ],
+      "prepTime": "PT2M",
+      "cookTime": "PT15M",
+      "totalTime": "PT17M",
+      "ingredients": [
+        "1 cup of uncooked rice (unwashed)",
+        "2 cloves of garlic (minced)",
+        "1 Tbsp of oil (canola, vegetable or olive oil)",
+        "Salt to taste (1 tsp per cup of dry rice)",
+        "1.5 cups of cooking liquid *see note below (water, or stock)"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "1 cup of uncooked rice unwashed",
+            "2 cloves of garlic minced",
+            "1 Tbsp of oil canola, vegetable or olive oil",
+            "Salt to taste 1 tsp per cup of dry rice",
+            "1.5 cups of cooking liquid *see note below water, or stock"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "BR-02",
+    "url": "https://braziliankitchenabroad.com/everyday-black-beans/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "BR-02",
+      "name": "Brazilian Black Beans",
+      "sourceUrl": "https://braziliankitchenabroad.com/everyday-black-beans/",
+      "mealGroup": "Side",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Brazilian Black Beans",
+      "sourceYield": [
+        "10",
+        "10 servings"
+      ],
+      "prepTime": "PT60M",
+      "cookTime": "PT45M",
+      "totalTime": "PT105M",
+      "ingredients": [
+        "16 oz dry Black Beans",
+        "1 14 oz Smoked sausage (cut into chunks)",
+        "1 bay leaf",
+        "½ tsp of cumin",
+        "1 tsp kosher salt**",
+        "black pepper to taste",
+        "½ tsp of white vinegar",
+        "4 strips of smoked bacon (cut into lardons)",
+        "2 tbsp of olive oil",
+        "1 medium onion (diced)",
+        "2 tbsp Brazilian Sofrito (or 6 cloves of garlic, minced)"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "16 oz dry Black Beans",
+            "1 14 oz Smoked sausage cut into chunks",
+            "1 bay leaf",
+            "½ tsp of cumin",
+            "1 tsp kosher salt** *add more, or less salt as desired – depending on how salty the sausage and bacon you're using are – taste as you go!",
+            "black pepper to taste",
+            "½ tsp of white vinegar",
+            "4 strips of smoked bacon cut into lardons",
+            "2 tbsp of olive oil",
+            "1 medium onion diced",
+            "2 tbsp Brazilian Sofrito or 6 cloves of garlic, minced"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "BR-03",
+    "url": "https://braziliankitchenabroad.com/brazilian-chicken-stroganoff-recipe/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "BR-03",
+      "name": "Brazilian Chicken Stroganoff",
+      "sourceUrl": "https://braziliankitchenabroad.com/brazilian-chicken-stroganoff-recipe/",
+      "mealGroup": "Lunch / dinner",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Brazilian Chicken Stroganoff Recipe",
+      "sourceYield": [
+        "6",
+        "6 Servings"
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "ingredients": [
+        "2 tablespoons of unsalted butter",
+        "2 pounds skinless, boneless chicken breasts cut into cubes",
+        "1 medium-large onion, diced (about a heaping cup)",
+        "1 tablespoon of Brazilian Sofrito (or 3 garlic cloves, minced)",
+        "1 15oz can of tomato sauce",
+        "1 tablespoon of ketchup",
+        "1.5 cups of heavy cream",
+        "salt and pepper to taste"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "2 tablespoons of unsalted butter",
+            "2 pounds skinless, boneless chicken breasts cut into cubes",
+            "1 medium-large onion, diced about a heaping cup",
+            "1 tablespoon of Brazilian Sofrito or 3 garlic cloves, minced",
+            "1 15oz can of tomato sauce",
+            "1 tablespoon of ketchup",
+            "1.5 cups of heavy cream",
+            "salt and pepper to taste"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "BR-04",
+    "url": "https://braziliankitchenabroad.com/mayo-potato-salad/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "BR-04",
+      "name": "Brazilian Potato Salad",
+      "sourceUrl": "https://braziliankitchenabroad.com/mayo-potato-salad/",
+      "mealGroup": "Side",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Brazilian Potato Salad",
+      "sourceYield": [
+        "8",
+        "8 portions"
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "ingredients": [
+        "2 lbs of yellow potatoes (peeled and diced)",
+        "3 cups large carrots (peeled and diced)",
+        "1/2 cup mayonnaise (or more if you like it creamier)",
+        "1/2 teaspoon of apple cider vinegar (or more to taste)",
+        "1/4 cup of chopped parsley",
+        "salt and pepper to taste",
+        "1 teaspoons of yellow or dijon mustard",
+        "1/2 cup of sliced green olives",
+        "2-3 chopped boiled eggs",
+        "1/2 cup of corn",
+        "1/4 cup of chives or green onions"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "For the Classic Brazilian Potato Salad:",
+          "ingredients": [
+            "2 lbs of yellow potatoes peeled and diced",
+            "3 cups large carrots peeled and diced",
+            "1/2 cup mayonnaise or more if you like it creamier",
+            "1/2 teaspoon of apple cider vinegar or more to taste",
+            "1/4 cup of chopped parsley",
+            "salt and pepper to taste"
+          ]
+        },
+        {
+          "name": "Optional Add-ons and Variations:",
+          "ingredients": [
+            "1 teaspoons of yellow or dijon mustard",
+            "1/2 cup of sliced green olives",
+            "2-3 chopped boiled eggs",
+            "1/2 cup of corn",
+            "1/4 cup of chives or green onions"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "BR-05",
+    "url": "https://braziliankitchenabroad.com/hearts-of-palm-salad/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "BR-05",
+      "name": "Hearts of Palm Salad",
+      "sourceUrl": "https://braziliankitchenabroad.com/hearts-of-palm-salad/",
+      "mealGroup": "Side",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Hearts of Palm Salad (Salada de Palmito)",
+      "sourceYield": [
+        "4",
+        "4 Servings"
+      ],
+      "prepTime": "PT15M",
+      "cookTime": null,
+      "totalTime": "PT15M",
+      "ingredients": [
+        "11 ounces of whole hearts of palm (drained weight)",
+        "1 cup of cherry tomatoes, halved",
+        "½ of a medium red onion, sliced thin",
+        "⅓ cup of olives, pitted and halved",
+        "6 cups of romaine lettuce, chopped and loosely packed",
+        "1 tablespoon of fresh parsley or cilantro, minced",
+        "1 garlic clove, minced",
+        "¼ cup of extra virgin olive oil (*see note)",
+        "1 tablespoon of white wine vinegar",
+        "1 teaspoon of dry oregano",
+        "salt and freshly cracked pepper to taste"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "For the Salad",
+          "ingredients": [
+            "11 ounces of whole hearts of palm drained weight",
+            "1 cup of cherry tomatoes, halved",
+            "½ of a medium red onion, sliced thin",
+            "⅓ cup of olives, pitted and halved",
+            "6 cups of romaine lettuce, chopped and loosely packed"
+          ]
+        },
+        {
+          "name": "For the Vinaigrette",
+          "ingredients": [
+            "1 tablespoon of fresh parsley or cilantro, minced",
+            "1 garlic clove, minced",
+            "¼ cup of extra virgin olive oil *see note",
+            "1 tablespoon of white wine vinegar",
+            "1 teaspoon of dry oregano",
+            "salt and freshly cracked pepper to taste"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "BR-06",
+    "url": "https://braziliankitchenabroad.com/brazilian-style-collard-greens/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "BR-06",
+      "name": "Brazilian Collard Greens with Bacon",
+      "sourceUrl": "https://braziliankitchenabroad.com/brazilian-style-collard-greens/",
+      "mealGroup": "Side",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Couve a Mineira | Brazilian Collard Greens with Bacon",
+      "sourceYield": [
+        "2",
+        "2 servings"
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "ingredients": [
+        "1 bunch of collard greens (stems removed and thinly sliced)",
+        "1-2 thick strips of smoked bacon (diced)",
+        "1/2 onion (diced)",
+        "2 colves of garlic (minced)",
+        "1 tbsp of extra virgin olive oil",
+        "Salt and pepper to taste"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "1 bunch of collard greens stems removed and thinly sliced",
+            "1-2 thick strips of smoked bacon diced",
+            "1/2 onion diced",
+            "2 colves of garlic minced",
+            "1 tbsp of extra virgin olive oil",
+            "Salt and pepper to taste"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "BR-07",
+    "url": "https://braziliankitchenabroad.com/acai-bowl/",
+    "status": "collected",
+    "ingredientsUnchanged": true,
+    "yieldUnchanged": true,
+    "fresh": {
+      "id": "BR-07",
+      "name": "Brazilian Açaí Bowl",
+      "sourceUrl": "https://braziliankitchenabroad.com/acai-bowl/",
+      "mealGroup": "Breakfast",
+      "retrievedOn": "2026-09-08",
+      "status": "collected",
+      "sourceName": "Brazilian Açaí Bowl",
+      "sourceYield": [
+        "1"
+      ],
+      "prepTime": "PT5M",
+      "cookTime": null,
+      "totalTime": null,
+      "ingredients": [
+        "2 packets of frozen Açaí Berry + Guaraná puree (I use Sambazon Original Blend)",
+        "1/4 cup water",
+        "2 Tbsp sugar",
+        "1 Banana",
+        "1/2 cup french vanilla granola"
+      ],
+      "ingredientGroups": [
+        {
+          "name": "Ingredients",
+          "ingredients": [
+            "2 packets of frozen Açaí Berry + Guaraná puree I use Sambazon Original Blend",
+            "1/4 cup water",
+            "2 Tbsp sugar"
+          ]
+        },
+        {
+          "name": "Toppings",
+          "ingredients": [
+            "1 Banana",
+            "1/2 cup french vanilla granola"
+          ]
+        }
+      ]
+    }
+  }
+]

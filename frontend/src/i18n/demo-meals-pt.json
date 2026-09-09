@@ -1,0 +1,18 @@
+{
+  "demoMeals": {
+    "title": "Receitas para Sua Despensa",
+    "introduction": "As sugestões são atualizadas quando você adiciona ingredientes ou termina de cozinhar.",
+    "retry": "Tente carregar sua despensa novamente.",
+    "empty": "Nenhuma Receita para Este Ingrediente",
+    "clearFilter": "Remova o filtro para ver todas as receitas.",
+    "missing_one": "Falta {{count}} ingrediente",
+    "missing_other": "Faltam {{count}} ingredientes",
+    "available": "Todos os ingredientes estão na despensa",
+    "have": "Na sua despensa: {{names}}",
+    "need": "Para adicionar: {{names}}",
+    "quantityNote": "Confira as quantidades da receita antes de cozinhar. Sal e pimenta são a gosto.",
+    "viewRecipe": "Ver Receita",
+    "updatePantry": "Atualizar Minha Despensa",
+    "parsley": "Salsinha"
+  }
+}

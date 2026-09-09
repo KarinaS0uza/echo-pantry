@@ -41,6 +41,14 @@ Database conventions are in [testing](testing.md#setup-tests-and-database-modes)
 
 ## Remaining dependency advisories
 
+Update, 2026-09-08: the latest audit reports 10 affected packages (7 high, 3 moderate),
+including Vitest and its mocker. The user deferred upgrades and bundle optimization while
+functional testing passes. These findings are recorded risks, not fixed vulnerabilities,
+and are non-blocking for Phase 2 functional work. See the
+[scope decision](../DECISIONS.md#phase-2-verification-scope-and-deferred-warnings-2026-09-08).
+The original baseline findings below are retained as historical evidence.
+
+
 The final npm audit reports **eight findings: seven high, one moderate, zero critical**.
 Several entries propagate the same underlying flaw through a dependency chain. This audit
 is not passed.

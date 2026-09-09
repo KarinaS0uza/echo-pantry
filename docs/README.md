@@ -1,11 +1,17 @@
 # Documentation
 
 Echo Pantry's documentation describes the product and its planned implementation.
-Phase 1 dependency, environment, and test/lint setup is implemented; the application itself
-has not been implemented yet. V1 runs the frontend and Django API on
+The sample Meals and recipe-detail workflows are implemented. Phase 2 retains three open
+shared-component verification tasks; Phase 3 visual acceptance is pending. Phase 4 account and owned-pantry workflows are implemented, with browser acceptance pending. See [Phase 3 verification](phase-3-verification.md).
+V1 runs the frontend and Django API on
 localhost with SQLite; public hosting and hosted PostgreSQL are planned for V2.
 
+- [Phase 4 verification](phase-4-verification.md): owned pantry, cooking, automated evidence and browser limitations.
+
 ## Guides
+
+The [interactive kitchen simulation](kitchen-simulation.md) implements the owner-selected
+reference design and is available at `#/kitchen`. The app root shows the simple landing page. The simulation remains separate from saved pantry data.
 
 | Guide | Read it for |
 |---|---|
@@ -17,6 +23,8 @@ localhost with SQLite; public hosting and hosted PostgreSQL are planned for V2.
 | [Database](database.md) | SQLite, transactions, data-model references, seeds, and recovery. |
 | [Local development](local-development.md) | Prerequisites, environment settings, startup, and phone access. |
 | [Testing](testing.md) | Automated checks, browser validation, and acceptance evidence. |
+| [Phase 3 verification](phase-3-verification.md) | Sample discovery implementation, tests, text-only browser checks, and limits. |
+| [Foundation validation](foundation-validation.md) | Phase 2 implementation, data review, checks, and browser evidence. |
 | [Setup validation](setup-validation.md) | Phase 1 observed checks, fixes, and remaining dependency advisories. |
 | [Future improvements](future-improvements.md) | V2 deployment and other deferred directions. |
 
@@ -45,3 +53,5 @@ than maintaining competing copies of schemas or acceptance criteria.
 The constitution and current feature scope govern. Earlier design examples or planning
 history do not add features to the current release. Distinguish planned behavior from
 implemented and verified behavior, and record actual evidence before marking checks complete.
+
+- [Demo walkthrough](demo-walkthrough.md): the prepared pantry-to-pasta presentation and rehearsal reset.

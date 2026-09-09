@@ -1,0 +1,18 @@
+{
+  "demoMeals": {
+    "title": "Recipes for Your Pantry",
+    "introduction": "Suggestions update when you add ingredients or finish cooking.",
+    "retry": "Try loading your pantry again.",
+    "empty": "No Recipes for This Ingredient",
+    "clearFilter": "Clear the ingredient filter to see all recipes.",
+    "missing_one": "Missing {{count}} ingredient",
+    "missing_other": "Missing {{count}} ingredients",
+    "available": "All ingredients in your pantry",
+    "have": "In your pantry: {{names}}",
+    "need": "To add: {{names}}",
+    "quantityNote": "Check the recipe quantities before cooking. Salt and pepper are to taste.",
+    "viewRecipe": "View Recipe",
+    "updatePantry": "Update My Pantry",
+    "parsley": "Parsley"
+  }
+}

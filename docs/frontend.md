@@ -1,9 +1,19 @@
 # Frontend
 
-**Status:** Phase 1 dependencies and tooling are implemented. The application is pending.
+**Status:** Phase 2 providers, routes, shared UI, API client, explicit language preference,
+and draft/API-reachability recovery are implemented. Shared-component tasks T023-T025 remain
+open for complete browser verification. Sample Meals and recipe detail are implemented, with filters, ingredient selection,
+server-scaled quantities, and English/Portuguese interface copy. Authentication refresh
+integration and owned product screens are implemented with browser acceptance pending; see
+[Phase 4 verification](phase-4-verification.md). See [Phase 3 verification](phase-3-verification.md). See [foundation validation](foundation-validation.md).
 
 This guide owns browser application structure, navigation, API integration, and state
 recovery. [UI](ui.md) covers visual and interaction rules.
+
+Meals shows up to seven ready recipes followed by up to three purchase-needed suggestions.
+Each section preserves the API ranking and counts only its displayed cards. Independent
+section limits keep incomplete suggestions visible when all seven ready places are filled.
+The API continues to return the full catalogue; this display limit does not change matching.
 
 ## Stack and runtime
 
@@ -101,3 +111,10 @@ reuse their `Idempotency-Key`. There is no service worker or offline write queue
 - [Local development](local-development.md): configuration, startup, and trusted-LAN access.
 - [UI](ui.md): components, themes, accessibility, interaction states, and copy.
 - [Testing](testing.md): browser and recovery acceptance checks.
+
+### Home routing
+
+The kitchen at `#/kitchen` is the home page after successful sign-in or account creation.
+Signed-out visitors open the welcome page at `#/` (also available at `#/welcome`).
+Signed-in visitors opening either welcome route go to `#/kitchen`. Sample exploration
+continues to use `#/meals`. This updates the earlier signed-in Meals destination.

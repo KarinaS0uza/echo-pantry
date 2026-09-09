@@ -1,7 +1,11 @@
-"""Setup-only Django settings. Add the real app settings in Phase 2, retaining DB isolation."""
+"""Real application configuration with isolated test credentials and storage."""
+
+from config.base import *  # noqa: F403
 
 SECRET_KEY = "test-only-no-application-credentials"
-INSTALLED_APPS = []
+ALLOWED_HOSTS = ["testserver", "localhost"]
+CORS_ALLOWED_ORIGINS = ["http://localhost:3000"]
+SIMPLE_JWT = {**SIMPLE_JWT, "SIGNING_KEY": SECRET_KEY}  # noqa: F405
 USE_TZ = True
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 DATABASES = {

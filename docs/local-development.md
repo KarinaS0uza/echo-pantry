@@ -1,9 +1,7 @@
 # Local development
 
-**Status:** Phase 1 setup is implemented. Application entry points, API, and screens are pending.
-
-The Phase 1 commands below are available now. The later run sequence is the intended
-workflow after the application tasks are implemented. The
+**Status:** Phase 2 foundations are runnable. Health, sample Meals, recipe details, and shared component previews are ready.
+Account and owned pantry routes remain scaffolds. The run sequence below is available now. The
 [feature quickstart](../specs/001-echo-pantry-mvp/quickstart.md) is the complete, ordered
 setup and validation procedure, including prerequisite data files and recovery commands.
 
@@ -26,11 +24,11 @@ uv venv --python 3.12 backend/.venv
 uv pip install --python backend/.venv/bin/python -e './backend[dev]'
 ```
 
-Replace the two secret placeholders in `backend/.env` before the later Django launch.
+Replace the two secret placeholders in `backend/.env` before Django launch.
 Generate each separately with `backend/.venv/bin/python -c "import secrets; print(secrets.token_urlsafe(64))"`.
 Never put a secret in a frontend `VITE_` variable. The backend environment helper reads
 `backend/.env` explicitly regardless of the working directory, preserving process-variable
-overrides; the Phase 2 Django settings will call that helper.
+overrides; Django settings call that helper.
 
 Setup checks available now:
 
@@ -50,9 +48,9 @@ uses a fresh temporary file and exercises independent connections. See
 [test database modes](testing.md#setup-tests-and-database-modes) for later test authoring.
 `check:setup` repeats frontend checks and bundles the chosen dependencies using Vite's
 production resolver in a temporary directory that it removes afterwards.
-Frontend lint includes the token rules before `vite build`; the full `npm run build` and
-application launch need T020's `index.html` and entry point. No runnable product UI or
-backend server is supplied by Phase 1.
+Frontend lint includes the token rules before `vite build`. Both the production build and
+local development application now run. The development-only `#/preview` route exercises
+shared controls without creating accounts or pantry records.
 
 ## Local services
 
@@ -91,6 +89,29 @@ The backend loads its uncommitted `backend/.env`; Vite uses `frontend/.env.local
 Exact CORS configuration also allows `idempotency-key` and exposes `Retry-After`.
 
 ## Run sequence
+
+From the repository root, after dependency and environment setup:
+
+```bash
+backend/.venv/bin/python scripts/build-recipe-dataset.py
+backend/.venv/bin/python scripts/verify-sample-coverage.py
+backend/.venv/bin/python backend/manage.py check
+backend/.venv/bin/python backend/manage.py migrate
+backend/.venv/bin/python backend/manage.py seed_reference_data --check-coverage
+backend/.venv/bin/python backend/manage.py runserver localhost:8000
+```
+
+In another terminal:
+
+```bash
+npm --prefix frontend run dev -- --host localhost --port 3000 --strictPort
+```
+
+Open `http://localhost:3000/#/meals` for the read-only sample demo. Choose a recipe to
+view scaled ingredients and its original source. Account creation remains planned.
+The development component exerciser is at `http://localhost:3000/#/preview`; the
+production build excludes that preview route.
+
 
 1. Follow the quickstart to prepare reference data, install dependencies, and fill environment
    placeholders. Do not commit environment files, databases, journals, or backup files.

@@ -1,0 +1,641 @@
+{
+  "brand": "Echo Pantry",
+  "nav": {
+    "menu": "Open Menu",
+    "close": "Close Menu",
+    "title": "Your Kitchen",
+    "meals": "Meals",
+    "pantry": "My Pantry",
+    "recipes": "My Recipes",
+    "signOut": "Sign Out",
+    "signIn": "Sign In",
+    "signUp": "Create Account",
+    "skip": "Skip to content"
+  },
+  "settings": {
+    "theme": "Appearance",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "Use device setting",
+    "language": {
+      "label": "Language",
+      "english": "English",
+      "portuguese": "Português (Brasil)",
+      "notSaved": "Language changed for now. We couldn't save it for your next visit.",
+      "changeFailed": "We couldn't change the language. Try again."
+    }
+  },
+  "common": {
+    "loading": "Loading",
+    "close": "Close",
+    "cancel": "Cancel",
+    "retry": "Try Again",
+    "clear": "Clear {{label}}",
+    "add": "Add Item",
+    "undo": "Undo",
+    "discard": "Discard",
+    "delete": "Delete",
+    "save": "Save",
+    "decrease": "Decrease {{label}}",
+    "increase": "Increase {{label}}",
+    "required": "Enter {{label}}.",
+    "search": "Search",
+    "remove": "Remove {{label}}"
+  },
+  "connection": {
+    "offline": "Can't reach your local kitchen. Loaded information may be out of date. Check that Echo Pantry is running, then try again.",
+    "checking": "Checking the connection",
+    "ready": "Local kitchen is connected."
+  },
+  "draft": {
+    "restored": "Your unfinished draft has been restored.",
+    "notSaved": "We couldn't save this draft on this device. Keep this page open to keep your work.",
+    "leaveTitle": "Keep your changes?",
+    "leaveBody": "You have unfinished changes on this page.",
+    "keep": "Keep Editing",
+    "discardChanges": "Discard Changes"
+  },
+  "auth": {
+    "kicker": "Create account",
+    "signUpTitle": "Create your account",
+    "signUpSubtitle": "Keep your ingredients and recipes together.",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "passwordHelper": "At least 8 characters.",
+    "showPassword": "Show password",
+    "submit": "Create Account",
+    "emailInvalid": "Enter a valid email address.",
+    "passwordShort": "Use at least 8 characters.",
+    "notConnected": "Accounts aren't connected in this build yet. Nothing you entered has been sent anywhere.",
+    "haveAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "signIn": "Sign In",
+    "signInKicker": "Sign in",
+    "signInTitle": "Welcome back",
+    "signInSubtitle": "Sign in to open your pantry and your saved recipes.",
+    "signInSubmit": "Sign In",
+    "continueDemo": "Continue With Demo Data",
+    "demoDescription": "Explore the prepared pantry without an email or password. Demo changes are saved separately from account data.",
+    "backToMeals": "Back to Meals",
+    "invalidCredentials": "Email or password is incorrect. Try again.",
+    "tooManyAttempts": "Too many sign-in attempts. Wait a minute and try again.",
+    "connectionError": "Unable to sign in. Check your connection and try again.",
+    "signedInAs": "Signed in as {{name}}"
+  },
+  "foundation": {
+    "title": "Good things start\nin your kitchen.",
+    "description": "Your kitchen is taking shape. Meal discovery and your personal pantry are coming in the next build stages.",
+    "pantryBody": "Your pantry will keep ingredients, quantities, and dates together.",
+    "recipesBody": "A place for your own recipes and the variations you love.",
+    "authBody": "Account forms are coming in the next build stage.",
+    "back": "Back to Meals"
+  },
+  "pantry": {
+    "introduction": "Browse your ingredients by storage location.",
+    "dateNote": "Dates are reminders, not food-safety advice.",
+    "total": "Ingredients: {{count}}",
+    "attention": "To use soon or check: {{count}}",
+    "daysLeft": "Days left: {{count}}",
+    "errorTitle": "Pantry Could Not Load",
+    "errorBody": "Check that your local kitchen is running, then try again.",
+    "emptyTitle": "No Ingredients Yet",
+    "emptyBody": "Start your pantry and add the ingredients you have.",
+    "locations": {
+      "refrigerator": "Fridge",
+      "freezer": "Freezer",
+      "pantry": "Pantry",
+      "counter": "Counter",
+      "other": "Other"
+    },
+    "tiers": {
+      "review": "Past date, check it",
+      "use_today": "Use today",
+      "use_soon": "Use soon",
+      "coming_up": "Coming up",
+      "neutral": "Plenty of time",
+      "unknown": "No date"
+    },
+    "personalIntroduction": "Add the ingredients you have at home.",
+    "visitOnly": "Ingredients stay here during this visit, including when you switch screens. Reloading clears them. Account saving is not available yet. Meal suggestions do not include ingredients added during this visit.",
+    "personalTotal": "Your ingredients: {{count}}",
+    "units": {
+      "item": "item",
+      "g": "g",
+      "kg": "kg",
+      "oz": "oz",
+      "lb": "lb",
+      "ml": "ml",
+      "l": "l",
+      "tsp": "tsp",
+      "tbsp": "tbsp",
+      "cup": "cup",
+      "bunch": "bunch",
+      "can": "can",
+      "whole": "whole",
+      "cloves": "cloves",
+      "handful": "handful"
+    },
+    "entry": {
+      "title": "Add Ingredient",
+      "name": "Ingredient Name",
+      "quantity": "Quantity",
+      "unit": "Unit",
+      "location": "Storage Location",
+      "date": "Date (Optional)",
+      "dateHelp": "Use a date from the label or your own reminder. You can leave it blank.",
+      "add": "Add Ingredient",
+      "nameRequired": "Enter an ingredient name.",
+      "quantityInvalid": "Enter a quantity greater than 0 and no more than 999999, with up to six decimal places.",
+      "dateInvalid": "Enter a valid date.",
+      "draftFailed": "Your unfinished entry could not be saved in this browser. Keep this page open.",
+      "added": "{{name}} added to your pantry for this visit."
+    }
+  },
+  "meals": {
+    "title": "Good Things Start in Your Kitchen",
+    "start": "My Pantry",
+    "servings": "Servings",
+    "filters": "Meal Filters",
+    "vegetarian": "Vegetarian",
+    "favorites": "Favorites",
+    "avoidCount": "Avoid ({{count}})",
+    "todayCount": "Ingredients for Today ({{count}})",
+    "reset": "Clear Filters and Selections",
+    "sampleFavorites": "No favorites saved yet. Turn off Favorites to explore all meals.",
+    "selected": "Selected for today: {{names}}",
+    "completeMatches": "Ready from Your Pantry",
+    "purchaseNeeded": "Needs Ingredients or a Quantity Check",
+    "errorTitle": "Meals Could Not Load",
+    "errorBody": "Check that your local kitchen is running, then try again.",
+    "emptyTitle": "Try Another Combination",
+    "emptySelection": "No recipe uses all these ingredients with your current filters. Choose fewer ingredients or clear your selections.",
+    "emptyMeals": "No meals are available right now. Try changing the number of servings.",
+    "emptyFilters": "No meals match these filters. Clear them to explore all meals.",
+    "avoidNotice": "Some recipes were excluded because they contain an avoided ingredient or their ingredient information is incomplete.",
+    "today": "Choose Ingredients for Today",
+    "avoid": "Ingredients to Avoid",
+    "mealType": "Meal Type",
+    "cuisine": "Cuisine",
+    "time": "Cooking Time",
+    "types": {
+      "any": "Any Meal",
+      "breakfast": "Breakfast",
+      "lunch": "Lunch",
+      "dinner": "Dinner",
+      "side": "Side Dish"
+    },
+    "cuisines": {
+      "any": "Any Cuisine",
+      "american": "American",
+      "brazilian": "Brazilian",
+      "indian": "Indian",
+      "korean": "Korean"
+    },
+    "times": {
+      "any": "Any Time",
+      "30": "30 Minutes or Less",
+      "60": "60 Minutes or Less"
+    },
+    "todayHelp": "Choose ingredients for today. Suggestions must use every selected ingredient. Optional ingredients are included only when you select them.",
+    "avoidHelp": "Recipes with uncertain ingredient information are also excluded. This filter is not an allergy safety guarantee.",
+    "findIngredient": "Find an Ingredient",
+    "ingredientCount": "Ingredients found: {{count}}",
+    "done": "Show Meals",
+    "available": "Available Ingredients",
+    "missing": "Missing or Not Enough",
+    "checkQuantity": "Check Quantity",
+    "none": "None",
+    "need": "Needed: {{quantity}}",
+    "have": "Available: {{quantity}}",
+    "completeSummary": "The required ingredients are available.",
+    "incompleteSummary": "Check the missing ingredients and uncertain quantities before cooking.",
+    "useFirst": "Use first: {{name}}. Review its date and condition before cooking.",
+    "additions": "Other Pantry Ingredients",
+    "include": "Include {{name}}",
+    "otherIngredient": "Also used in this recipe: {{name}}.",
+    "timeKnown": "{{count}} min",
+    "timeUnknown": "Time Not Listed",
+    "expiring": "Uses your expiring: {{names}}",
+    "unknownDate": "Date Not Listed",
+    "review": "Review Date",
+    "use_today": "Use Today",
+    "use_soon": "Use Soon",
+    "coming_up": "Coming Up",
+    "neutral": "Later",
+    "included": "Included: {{name}}",
+    "breakdown": "Ingredients: {{owned}} available, {{missing}} missing, {{uncertain}} to check",
+    "estimateUnavailable": "Price estimate unavailable. Check quantities and current store prices before shopping."
+  },
+  "detail": {
+    "back": "Back to Meals",
+    "errorTitle": "Recipe Could Not Load",
+    "openOriginal": "Open Original Recipe at {{source}}",
+    "source": "Source: {{source}}",
+    "panels": "Recipe Information",
+    "ingredients": "Ingredients",
+    "method": "Step By Step",
+    "toTaste": "To taste",
+    "unknown": "Quantity not listed. Check the original recipe.",
+    "optional": "Optional",
+    "methodBody": "Follow the preparation steps on the original publisher’s website. Ingredients here are scaled to your chosen servings; viewing them does not change any stock.",
+    "errorBody": "This recipe could not be loaded. Try again or return to Meals.",
+    "quickMethod": "Quick Steps",
+    "quickMethodBody": "A quick overview from Echo Pantry. Open the original recipe for full directions, cooking times, and temperatures.",
+    "methods": {
+      "US-01": [
+        "Mix the dry ingredients, then stir in the milk, egg, and melted butter.",
+        "Spoon the batter onto a heated, greased pan.",
+        "Flip when bubbles form and cook the other side until golden."
+      ],
+      "US-02": [
+        "Butter the bread and place the cheese between the slices.",
+        "Toast the sandwich in a pan over gentle heat.",
+        "Turn and cook until both sides are golden and the cheese has melted."
+      ],
+      "US-03": [
+        "Mix the beef, egg, chopped onion, milk, breadcrumbs, salt, and pepper.",
+        "Shape into a loaf and spread the ketchup, brown sugar, and mustard mixture over the top.",
+        "Bake following the original recipe’s temperature and timing. Check doneness, then rest briefly before slicing."
+      ],
+      "US-04": [
+        "Hard-boil the eggs, then cool, peel, and chop them.",
+        "Mix with mayonnaise, mustard, green onion, and seasonings.",
+        "Chill until ready to serve."
+      ],
+      "US-05": [
+        "Soften the onion in oil, then add the ground beef and brown it.",
+        "Stir in the seasonings, pepperoncini, brine, water, and ketchup.",
+        "Simmer until the beef is cooked through and the sauce thickens, then spoon into buns."
+      ],
+      "US-06": [
+        "Mix the mayonnaise, sour cream, brine, and seasonings into a dressing.",
+        "Fold in the cooked chicken, chopped pepperoncini, and green onion.",
+        "Chill and serve with crackers."
+      ],
+      "US-07": [
+        "Cut the potatoes and prepare them as directed in the original recipe.",
+        "Cook with oil, butter, lemon juice, and seasonings until tender and browned.",
+        "Finish with cheddar and green onion."
+      ],
+      "US-08": [
+        "Sauté the onion, pepper, zucchini, and garlic with the spices.",
+        "Add the canned tomatoes, beans, corn, and cooked chicken; simmer until hot.",
+        "Finish with cheese, cilantro, and lime."
+      ],
+      "US-09": [
+        "Cook the pasta and soften the onion, celery, and pepper.",
+        "Stir flour into the butter and vegetables, then gradually add milk and cream to make a sauce.",
+        "Melt in the cheeses, combine with the pasta, and finish as directed in the original recipe."
+      ],
+      "KR-01": [
+        "Cook the bacon, then stir-fry the vegetables and kimchi.",
+        "Add the cooked rice, kimchi juice, soy sauce, and gochujang; toss until hot.",
+        "Finish with sesame oil and your chosen egg, sesame, and seaweed toppings."
+      ],
+      "KR-02": [
+        "Cook the glass noodles and prepare the sauce.",
+        "Cook the beef and vegetables in batches, following the original recipe.",
+        "Toss with the noodles and sauce, then finish with sesame and egg garnish if using."
+      ],
+      "KR-03": [
+        "Slice and salt the cucumber, then drain the released liquid.",
+        "Mix the chili flakes, garlic, vinegar, sugar, and sesame oil.",
+        "Toss with the cucumber, green onion, and sesame seeds."
+      ],
+      "KR-04": [
+        "Bring the broth to a simmer with the tomato, cabbage, and garlic.",
+        "Add the soft tofu and season with the salted shrimp.",
+        "Pour in the beaten eggs and cook until set. Finish with green onion and sesame."
+      ],
+      "KR-05": [
+        "Mix the beef with the bulgogi marinade described in the original recipe.",
+        "Cook the marinated beef with the vegetables and sauce.",
+        "Serve over hot cooked rice."
+      ],
+      "KR-06": [
+        "Prepare and strain the radish, onion, kelp, and mushroom broth.",
+        "Arrange the mushrooms, vegetables, tofu, and prepared noodles in a pot.",
+        "Add the broth and simmer until the vegetables and noodles are tender."
+      ],
+      "KR-07": [
+        "Sauté the pork and kimchi with garlic and chili flakes.",
+        "Add kimchi juice and the liquid specified in the original recipe; simmer.",
+        "Add tofu and green onion, and finish cooking until the pork is cooked through."
+      ],
+      "IN-01": [
+        "Cut the potatoes and cauliflower; prepare the onion, tomato, ginger, and garlic.",
+        "Cook the aromatics and spices, then add the potatoes and cauliflower.",
+        "Cook until tender and finish with the remaining seasonings, cilantro, and lemon."
+      ],
+      "IN-02": [
+        "Prepare the spinach purée using the original recipe’s method.",
+        "Cook the onion, tomato, ginger-garlic paste, and spices into a sauce.",
+        "Add the spinach and paneer, warm gently, and finish with cream if using."
+      ],
+      "IN-03": [
+        "Soak and cook the dried chickpeas according to the original recipe.",
+        "Cook the onion, ginger-garlic paste, tomato, and spices into a sauce.",
+        "Add the chickpeas and cooking liquid, simmer, and finish with cilantro."
+      ],
+      "IN-04": [
+        "Rinse the lentils and cook with water, tomato, and chili until soft.",
+        "Heat the ghee and bloom the garlic, seeds, and spices.",
+        "Stir the seasoned ghee into the lentils and finish with cilantro and lemon."
+      ],
+      "IN-05": [
+        "Peel the cooked eggs and prepare the onion and tomato.",
+        "Cook the aromatics and spices, then add tomato and water to make the sauce.",
+        "Add the eggs, simmer gently, and finish with herbs and cream if using."
+      ],
+      "IN-06": [
+        "Rinse the rice and prepare the onion, tomato, and spices.",
+        "Sauté the aromatics, then cook the tomatoes until softened.",
+        "Add rice and the measured water from the original recipe. Cook until tender and fluff before serving."
+      ],
+      "IN-07": [
+        "Rinse the rice and chop the vegetables.",
+        "Sauté the whole spices, onion, ginger-garlic paste, and vegetables.",
+        "Add rice and the measured water from the original recipe; cook covered until tender."
+      ],
+      "BR-01": [
+        "Rinse and drain the rice.",
+        "Sauté the garlic in oil, then stir in the rice.",
+        "Add water and salt as directed in the original recipe. Cook covered until tender, then fluff."
+      ],
+      "BR-02": [
+        "Prepare the dried beans following the original recipe’s soaking and cooking method.",
+        "Cook the bacon, sausage, onion, and garlic.",
+        "Combine with the beans and seasonings; simmer until tender and the broth thickens."
+      ],
+      "BR-03": [
+        "Cut the chicken and sauté it in butter with onion and garlic.",
+        "Stir in the tomato sauce and ketchup; simmer until the chicken is cooked through.",
+        "Lower the heat and stir in the cream. Season and serve."
+      ],
+      "BR-04": [
+        "Cook the potatoes and carrots until tender, then drain and cool.",
+        "Mix the mayonnaise, vinegar, mustard, and seasonings.",
+        "Fold in the vegetables and chosen additions, then chill before serving."
+      ],
+      "BR-05": [
+        "Drain and slice the hearts of palm; prepare the tomatoes, onion, olives, and lettuce.",
+        "Whisk the oil, vinegar, garlic, oregano, and seasonings.",
+        "Arrange the salad, add the dressing, and finish with parsley."
+      ],
+      "BR-06": [
+        "Remove tough stems and thinly slice the collard greens.",
+        "Cook the bacon, then sauté the onion and garlic.",
+        "Add the greens, toss until tender, and season to taste."
+      ],
+      "BR-07": [
+        "Briefly soften the frozen açaí so it can be blended.",
+        "Blend with a little water, adding sugar only if wanted, until thick and smooth.",
+        "Spoon into a bowl and top with banana and granola."
+      ]
+    }
+  },
+  "kitchen": {
+    "home": "Kitchen",
+    "headline": "Fresh ideas.\nGood food.",
+    "recipe": "Recipe",
+    "cooking": "Cooking",
+    "search": "Find a Recipe",
+    "searchLabel": "Recipe name",
+    "quickIdeas": "Quick ideas",
+    "seeAll": "See All",
+    "backKitchen": "Back to Kitchen",
+    "backRecipe": "Back to Recipe",
+    "startCooking": "Start Guided Cooking",
+    "timer": "Timer",
+    "startTimer": "Start Timer",
+    "pauseTimer": "Pause Timer",
+    "resumeTimer": "Resume Timer",
+    "resetTimer": "Reset Timer",
+    "timerFinished": "Timer finished. Your next step is ready.",
+    "timerRunning": "Timer is running.",
+    "timerPaused": "Timer is paused.",
+    "timeRemaining": "Time remaining",
+    "timeUnits": "min     sec",
+    "stepCount": "Step {{current}} of {{total}}",
+    "nextStep": "Next Step",
+    "previousStep": "Previous Step",
+    "finishCooking": "Finish Cooking",
+    "complete": "All done",
+    "enjoy": "Made with care.\nReady to share.",
+    "finishedBody": "Your dish is ready. Bring it to the table and enjoy.",
+    "takeYourTime": "Take your time. Move on when you are ready.",
+    "showTip": "Show Cooking Tip",
+    "cookingOptions": "Cooking Tips and Information",
+    "tip": "A Little Kitchen Tip",
+    "dark": "Use Dark Appearance",
+    "light": "Use Light Appearance",
+    "saveRecipe": "Save {{name}}",
+    "unsaveRecipe": "Unsave {{name}}",
+    "savedVisit_one": "1 recipe saved for this visit.",
+    "savedVisit_other": "{{count}} recipes saved for this visit.",
+    "browseMeals": "Browse Pantry Meals",
+    "noResults": "No recipes match. Try “beans” or “tomato”.",
+    "ideas": {
+      "lemon": {
+        "title": "With Lemon",
+        "body": "Bright & fresh"
+      },
+      "beans": {
+        "title": "With Beans",
+        "body": "Hearty & warm"
+      },
+      "green": {
+        "title": "With Green",
+        "body": "Light & herby"
+      }
+    },
+    "dishes": {
+      "beans": {
+        "title": "Lemony white beans",
+        "metadata": "25 min · Serves 2",
+        "ingredients": [
+          "2 cups cooked white beans, drained",
+          "1 tablespoon olive oil",
+          "1 lemon, zest and juice",
+          "2 tablespoons chopped parsley",
+          "A splash of water",
+          "Salt and black pepper, to taste"
+        ],
+        "method": [
+          "Warm the olive oil in a pan.",
+          "Add beans and a splash of water. Simmer for 8 minutes.",
+          "Finish with lemon and parsley."
+        ],
+        "steps": [
+          {
+            "title": "A little preparation.",
+            "body": "Drain the cooked beans. Zest the lemon and chop the parsley.",
+            "tip": "Set the ingredients beside the stove before you begin."
+          },
+          {
+            "title": "Warm the olive oil.",
+            "body": "Set a pan over medium-low heat. Add the olive oil and let it warm gently.",
+            "tip": "The oil should look glossy without smoking."
+          },
+          {
+            "title": "Let it gently\nsimmer.",
+            "body": "Add the beans and a splash of water. Cook until silky.",
+            "tip": "Stir gently. Add a little more water if the pan looks dry."
+          },
+          {
+            "title": "Bring in the lemon.",
+            "body": "Take the pan off the heat. Stir in the lemon zest and a squeeze of juice.",
+            "tip": "Start with a little lemon juice, then taste and adjust."
+          },
+          {
+            "title": "A fresh finish.",
+            "body": "Fold in the parsley. Season with salt and black pepper to taste.",
+            "tip": "Keep a little parsley aside to scatter over the bowls."
+          },
+          {
+            "title": "Make it a meal.",
+            "body": "Spoon into warm bowls and finish with a drizzle of olive oil.",
+            "tip": "Serve with a piece of toast if you have one."
+          }
+        ]
+      },
+      "tomato": {
+        "title": "Tomato & burrata",
+        "metadata": "15 min · Easy",
+        "ingredients": [
+          "2 ripe tomatoes",
+          "1 ball of burrata",
+          "A small handful of basil",
+          "1 tablespoon olive oil",
+          "Salt and black pepper, to taste"
+        ],
+        "method": [
+          "Slice the tomatoes and arrange them on a plate.",
+          "Nestle the burrata in the centre.",
+          "Finish with basil, olive oil, salt and pepper."
+        ],
+        "steps": [
+          {
+            "title": "Start with something\nfresh.",
+            "body": "Rinse the tomatoes and basil, then pat them dry.",
+            "tip": "Choose ripe tomatoes with a little give when gently pressed."
+          },
+          {
+            "title": "Slice with care.",
+            "body": "Cut the tomatoes into generous slices.",
+            "tip": "A serrated knife makes slicing ripe tomatoes easier."
+          },
+          {
+            "title": "Build a colourful\nplate.",
+            "body": "Arrange the tomato slices in a loose circle.",
+            "tip": "Overlap the slices a little so every bite has a mix of flavours."
+          },
+          {
+            "title": "Add the burrata.",
+            "body": "Place the burrata in the centre of the tomatoes.",
+            "tip": "Open the burrata just before serving to keep the centre creamy."
+          },
+          {
+            "title": "A little green.",
+            "body": "Tear the basil and scatter it over the plate.",
+            "tip": "Tear basil with your fingers just before adding it."
+          },
+          {
+            "title": "The finishing touch.",
+            "body": "Drizzle with olive oil. Add salt and freshly ground black pepper to taste.",
+            "tip": "Serve straight away while the tomatoes are at room temperature."
+          }
+        ]
+      }
+    }
+  },
+  "demo": {
+    "food": {
+      "pasta": "Pasta",
+      "cherryTomatoes": "Cherry tomatoes",
+      "burrata": "Burrata",
+      "basil": "Basil",
+      "garlic": "Garlic",
+      "oliveOil": "Olive oil",
+      "beans": "White beans",
+      "lemon": "Lemon",
+      "spinach": "Spinach"
+    }
+  },
+  "landing": {
+    "title": "Fresh ideas. Good food.",
+    "description": "Cook something good with what you already have.",
+    "trySample": "Try a Sample Pantry",
+    "createAccount": "Create Account",
+    "noticeTitle": "Your Data",
+    "noticeBody": "Your theme and language preferences are saved in this browser. Forms may save drafts on this device, but passwords are never saved in drafts. The sample pantry uses prepared ingredients. Account and saved pantry data are stored by the local service. Signing in saves a refresh token in this browser to restore your session.",
+    "backHome": "Back to Home"
+  },
+  "owned": {
+    "saveFailed": "Could not save. Your input is still here. Try again.",
+    "resetNote": "Forgot your password? Contact the person running this local demo for help resetting it.",
+    "sessionTitle": "Sign In Again",
+    "sessionBody": "Your session expired. Sign in to continue. Your form is still here.",
+    "food": "Food",
+    "chooseFood": "Choose a food or enter a custom name",
+    "customName": "Custom Food Name",
+    "quantity": "Quantity",
+    "unit": "Unit",
+    "storage": "Storage Location",
+    "date": "Date (Optional)",
+    "save": "Save Item",
+    "welcome": "We've added the sample items to get you started - edit quantities and remove anything you don't have.",
+    "dismiss": "Dismiss",
+    "find": "Find an Item",
+    "history": "History",
+    "notLive": "Showing previously loaded data. The local API is unavailable.",
+    "empty": "Add food to your pantry, or clear the search to see your items.",
+    "unknownDate": "Date unknown",
+    "used": "Mark Used",
+    "edit": "Edit Item",
+    "discarded": "Mark Discarded",
+    "mistake": "Remove Mistaken Entry",
+    "mistakeBody": "This removes the entry without recording it as used or discarded.",
+    "add": "Add Item",
+    "deleteHistory": "Delete History Entry",
+    "loadMore": "Load More",
+    "recorded": "Pantry updated.",
+    "uncertain": "The result could not be confirmed. Refresh the pantry before trying this action again.",
+    "undoFailed": "Could not undo. The six-second window may have ended. Refresh to see current stock.",
+    "reviewBody": "Review what you actually used. You can change quantities, choose another purchase, replace an ingredient, or record that it came from outside your pantry.",
+    "reviewEvery": "Choose how you used every ingredient before confirming.",
+    "useChoice": "How Did You Use This?",
+    "choose": "Choose an option",
+    "fromPantry": "Use Pantry Stock",
+    "omit": "Omit Ingredient",
+    "outside": "Obtained Outside the Pantry",
+    "noDeduction": "No Deduction",
+    "replace": "Replace Ingredient",
+    "original": "Keep Original Ingredient",
+    "purchase": "Pantry Purchase",
+    "actualAmount": "Actual Amount Used",
+    "removeAllocation": "Remove Allocation",
+    "addAllocation": "Add Allocation",
+    "replay": "The result is uncertain. Retry this same confirmation to avoid deducting twice.",
+    "approve": "Confirm Cooking",
+    "reviewTitle": "Review Ingredients Used",
+    "preview": "Your pantry is empty. These are sample recommendations. Add your own food to get personal matches.",
+    "cooked": "I Cooked This",
+    "favorite": "Add to Favorites",
+    "unfavorite": "Remove from Favorites",
+    "itemActions": "Actions for {{name}}",
+    "categories": {
+      "produce": "Produce",
+      "meat": "Meat",
+      "dairy": "Dairy",
+      "pantry": "Pantry",
+      "spice": "Spices",
+      "other": "Other",
+      "frozen": "Frozen Foods"
+    },
+    "usedHistory": "Used",
+    "discardedHistory": "Discarded",
+    "historyEmpty": "No used or discarded items yet."
+  }
+}

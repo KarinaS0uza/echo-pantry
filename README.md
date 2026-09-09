@@ -12,11 +12,15 @@ with real use.
 
 ## Status
 
-Phase 1 project setup is available: dependency manifests, local configuration templates,
-and test/lint tooling. Application screens, Django endpoints, and seed preparation remain
-unimplemented.
-The [acceptance checklist](planning/acceptance-checklist.md) remains open. The current
-baseline is constitution v4.1.0: V1 runs on localhost with Django-managed SQLite.
+Phase 3 sample discovery is implemented at `http://localhost:3000/#/meals`: 30 curated
+recipes, ranked pantry matches, filters, ingredient selection, and scaled recipe details.
+The sample is read-only. Accounts, owned pantry changes, and cooking remain later work;
+the sign-up route currently explains that account forms are coming next.
+See [Phase 3 verification](docs/phase-3-verification.md) for tests, live interaction evidence,
+and remaining acceptance limits. Phase 2 retains three open shared-component verification
+tasks. Visual acceptance remains pending under the persistent no-capture rule.
+The [acceptance checklist](planning/acceptance-checklist.md) remains open. V1 runs on
+localhost with Django-managed SQLite.
 
 ## In this version
 
@@ -45,7 +49,7 @@ rules. Public deployment and migration to hosted PostgreSQL belong to V2.
 ## Documentation
 
 For the currently runnable setup commands, start with
-[Phase 1 setup](docs/local-development.md#phase-1-setup). The
+[local development](docs/local-development.md#run-sequence). The
 [feature quickstart](specs/001-echo-pantry-mvp/quickstart.md) covers the full application
 launch and validation sequence as later phases are implemented.
 

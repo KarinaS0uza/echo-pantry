@@ -106,6 +106,9 @@ module.exports = {
               if (source === '@/design/theme' && ['MotionView', 'MotionPressable'].includes(specifier.imported?.name)) {
                 primitives.add(specifier.local.name);
               }
+              if (source === '@/design/modal' && ['Modal', 'ModalContent', 'ModalBackdrop'].includes(specifier.imported?.name)) {
+                primitives.add(specifier.local.name);
+              }
               if (['motion/react', 'motion/react-m'].includes(source) && ['motion', 'm'].includes(specifier.imported?.name)) {
                 namespaces.add(specifier.local.name);
               }
