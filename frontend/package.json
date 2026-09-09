@@ -1,0 +1,67 @@
+{
+  "name": "echo-pantry-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0 <25",
+    "npm": ">=10"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run lint && npm run typecheck && vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .js,.jsx,.mjs,.cjs,.ts,.tsx --max-warnings 0",
+    "typecheck": "tsc --noEmit",
+    "check:setup": "npm run lint && npm run typecheck && npm test && node tooling/check-build.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@fontsource/roboto": "^5.3.0",
+    "@gluestack-style/animation-resolver": "^1.0.4",
+    "@gluestack-style/react": "1.0.57",
+    "@gluestack-ui/modal": "^0.1.41",
+    "@gluestack-ui/themed": "1.1.73",
+    "@react-native-aria/focus": "^0.2.9",
+    "@react-native-aria/interactions": "^0.2.16",
+    "@react-native-aria/overlays": "^0.3.15",
+    "@tanstack/react-query": "^5.66.0",
+    "i18next": "^25.0.0",
+    "lucide-react-native": "^1.43.0",
+    "motion": "^12.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^15.4.0",
+    "react-native": "0.76.9",
+    "react-native-svg": "^15.12.0",
+    "react-native-web": "^0.19.13",
+    "react-router-dom": "^7.18.3"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.0",
+    "@testing-library/react": "^16.1.0",
+    "@types/node": "^22.12.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@types/react-native": "0.73.0",
+    "@types/react-native-web": "^0.19.2",
+    "@typescript-eslint/eslint-plugin": "^8.24.0",
+    "@typescript-eslint/parser": "^8.24.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "8.57.1",
+    "eslint-plugin-echo": "file:tooling/eslint-plugin-echo",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "jsdom": "^26.0.0",
+    "typescript": "~5.8.3",
+    "vite": "^5.4.14",
+    "vitest": "^3.2.6"
+  },
+  "overrides": {
+    "@legendapp/motion": "2.2.1",
+    "@react-native-aria/checkbox": {
+      "@react-aria/checkbox": "^3.17.1"
+    }
+  }
+}

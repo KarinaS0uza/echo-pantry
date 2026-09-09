@@ -1,0 +1,242 @@
+[
+  {
+    "id": "BR-01",
+    "title": "Brazilian Rice",
+    "src": "/images/meals/BR-01.jpg",
+    "sourceName": "Brazilian Kitchen Abroad",
+    "sourceUrl": "https://braziliankitchenabroad.com/brazilian-white-rice/",
+    "originalImageUrl": "https://braziliankitchenabroad.com/wp-content/uploads/2019/04/white-rice-reshoot-10.jpg"
+  },
+  {
+    "id": "BR-02",
+    "title": "Brazilian Black Beans",
+    "src": "/images/meals/BR-02.jpg",
+    "sourceName": "Brazilian Kitchen Abroad",
+    "sourceUrl": "https://braziliankitchenabroad.com/everyday-black-beans/",
+    "originalImageUrl": "https://braziliankitchenabroad.com/wp-content/uploads/2019/09/brazilian-black-beans-1.jpg"
+  },
+  {
+    "id": "BR-03",
+    "title": "Brazilian Chicken Stroganoff",
+    "src": "/images/meals/BR-03.jpg",
+    "sourceName": "Brazilian Kitchen Abroad",
+    "sourceUrl": "https://braziliankitchenabroad.com/brazilian-chicken-stroganoff-recipe/",
+    "originalImageUrl": "https://braziliankitchenabroad.com/wp-content/uploads/2020/10/chicken-stroganoff-18.jpg"
+  },
+  {
+    "id": "BR-04",
+    "title": "Brazilian Potato Salad",
+    "src": "/images/meals/BR-04.jpg",
+    "sourceName": "Brazilian Kitchen Abroad",
+    "sourceUrl": "https://braziliankitchenabroad.com/mayo-potato-salad/",
+    "originalImageUrl": "https://braziliankitchenabroad.com/wp-content/uploads/2020/06/maionese-de-batata-8.jpg"
+  },
+  {
+    "id": "BR-05",
+    "title": "Hearts of Palm Salad",
+    "src": "/images/meals/BR-05.jpg",
+    "sourceName": "Brazilian Kitchen Abroad",
+    "sourceUrl": "https://braziliankitchenabroad.com/hearts-of-palm-salad/",
+    "originalImageUrl": "https://braziliankitchenabroad.com/wp-content/uploads/2026/03/hearts-of-palm-salad-20.jpg"
+  },
+  {
+    "id": "BR-06",
+    "title": "Brazilian Collard Greens with Bacon",
+    "src": "/images/meals/BR-06.jpg",
+    "sourceName": "Brazilian Kitchen Abroad",
+    "sourceUrl": "https://braziliankitchenabroad.com/brazilian-style-collard-greens/",
+    "originalImageUrl": "https://braziliankitchenabroad.com/wp-content/uploads/2019/04/couve8-1.jpg"
+  },
+  {
+    "id": "BR-07",
+    "title": "Brazilian Açaí Bowl",
+    "src": "/images/meals/BR-07.jpg",
+    "sourceName": "Brazilian Kitchen Abroad",
+    "sourceUrl": "https://braziliankitchenabroad.com/acai-bowl/",
+    "originalImageUrl": "https://braziliankitchenabroad.com/wp-content/uploads/2019/04/acai-bowl-2.jpg"
+  },
+  {
+    "id": "IN-01",
+    "title": "Aloo Gobi",
+    "src": "/images/meals/IN-01.jpg",
+    "sourceName": "Swasthi's Recipes",
+    "sourceUrl": "https://www.indianhealthyrecipes.com/aloo-gobi-recipe/",
+    "originalImageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/aloo-gobi-recipe.jpg"
+  },
+  {
+    "id": "IN-02",
+    "title": "Palak Paneer",
+    "src": "/images/meals/IN-02.jpg",
+    "sourceName": "Swasthi's Recipes",
+    "sourceUrl": "https://www.indianhealthyrecipes.com/palak-paneer-recipe-easy-paneer-recipes-step-by-step-pics/",
+    "originalImageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/palak-paneer-recipe.jpg"
+  },
+  {
+    "id": "IN-03",
+    "title": "Chana Masala",
+    "src": "/images/meals/IN-03.jpg",
+    "sourceName": "Swasthi's Recipes",
+    "sourceUrl": "https://www.indianhealthyrecipes.com/chana-masala/",
+    "originalImageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/chana-masala-recipe.jpg"
+  },
+  {
+    "id": "IN-04",
+    "title": "Masoor Dal",
+    "src": "/images/meals/IN-04.jpg",
+    "sourceName": "Swasthi's Recipes",
+    "sourceUrl": "https://www.indianhealthyrecipes.com/masoor-dal-recipe/",
+    "originalImageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/masoor-dal-recipe.jpg"
+  },
+  {
+    "id": "IN-05",
+    "title": "Egg Curry",
+    "src": "/images/meals/IN-05.jpg",
+    "sourceName": "Swasthi's Recipes",
+    "sourceUrl": "https://www.indianhealthyrecipes.com/punjabi-egg-curry-anda-curry-dhaba-style/",
+    "originalImageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/egg-curry-recipe.jpg"
+  },
+  {
+    "id": "IN-06",
+    "title": "Tomato Rice",
+    "src": "/images/meals/IN-06.jpg",
+    "sourceName": "Swasthi's Recipes",
+    "sourceUrl": "https://www.indianhealthyrecipes.com/tomato-rice-recipe/",
+    "originalImageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/tomato-rice-recipe.jpg"
+  },
+  {
+    "id": "IN-07",
+    "title": "Vegetable Pulao",
+    "src": "/images/meals/IN-07.jpg",
+    "sourceName": "Swasthi's Recipes",
+    "sourceUrl": "https://www.indianhealthyrecipes.com/pulao-recipe-veg-pulao-recipe/",
+    "originalImageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/veg-pulao-recipe.jpg"
+  },
+  {
+    "id": "KR-01",
+    "title": "Kimchi Fried Rice",
+    "src": "/images/meals/KR-01.jpg",
+    "sourceName": "Korean Bapsang",
+    "sourceUrl": "https://www.koreanbapsang.com/kimchi-fried-rice-kimchi-bokkeum-bap/",
+    "originalImageUrl": "https://www.koreanbapsang.com/wp-content/uploads/2010/12/DSC_1106-e1454273856852.jpg"
+  },
+  {
+    "id": "KR-02",
+    "title": "Japchae",
+    "src": "/images/meals/KR-02.jpg",
+    "sourceName": "Korean Bapsang",
+    "sourceUrl": "https://www.koreanbapsang.com/japchae-korean-stir-fried-starch/",
+    "originalImageUrl": "https://www.koreanbapsang.com/wp-content/uploads/2010/01/DSC5028-4-e1742779559614.jpg"
+  },
+  {
+    "id": "KR-03",
+    "title": "Oi Muchim - Spicy Cucumber Salad",
+    "src": "/images/meals/KR-03.jpg",
+    "sourceName": "Korean Bapsang",
+    "sourceUrl": "https://www.koreanbapsang.com/oi-muchim-korean-style-cucumber-salad/",
+    "originalImageUrl": "https://www.koreanbapsang.com/wp-content/uploads/2010/07/DSC_0308-e1742779037524.jpg"
+  },
+  {
+    "id": "KR-04",
+    "title": "Sundubu Gyeran Guk - Soft Tofu and Egg Soup",
+    "src": "/images/meals/KR-04.jpg",
+    "sourceName": "Korean Bapsang",
+    "sourceUrl": "https://www.koreanbapsang.com/sundubu-gyeran-guk-soft-tofu-and-egg-soup/",
+    "originalImageUrl": "https://www.koreanbapsang.com/wp-content/uploads/2023/11/DSC7996-2-e1701145344915.jpg"
+  },
+  {
+    "id": "KR-05",
+    "title": "Bulgogi Deopbap - Bulgogi Rice Bowl",
+    "src": "/images/meals/KR-05.jpg",
+    "sourceName": "Korean Bapsang",
+    "sourceUrl": "https://www.koreanbapsang.com/bulgogi-deopbap-bulgogi-rice-bowl/",
+    "originalImageUrl": "https://www.koreanbapsang.com/wp-content/uploads/2011/12/DSC7219-e1668988718403.jpg"
+  },
+  {
+    "id": "KR-06",
+    "title": "Beoseot Jeongol - Mushroom Hot Pot",
+    "src": "/images/meals/KR-06.jpg",
+    "sourceName": "Korean Bapsang",
+    "sourceUrl": "https://www.koreanbapsang.com/beoseot-jeongol-mushroom-hot-pot/",
+    "originalImageUrl": "https://www.koreanbapsang.com/wp-content/uploads/2012/12/DSC7585-2-e1673293249539.jpg"
+  },
+  {
+    "id": "KR-07",
+    "title": "Kimchi Jjigae - Kimchi Stew",
+    "src": "/images/meals/KR-07.jpg",
+    "sourceName": "Korean Bapsang",
+    "sourceUrl": "https://www.koreanbapsang.com/kimchi-jjigae-kimchi-stew/",
+    "originalImageUrl": "https://www.koreanbapsang.com/wp-content/uploads/2014/03/DSC5897-2-e1742780436647.jpg"
+  },
+  {
+    "id": "US-01",
+    "title": "Good Old-Fashioned Pancakes",
+    "src": "/images/meals/US-01.jpg",
+    "sourceName": "Allrecipes",
+    "sourceUrl": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
+    "originalImageUrl": "https://www.allrecipes.com/thmb/mFwj2iDCEDQ4oV8zajlDLxtjwHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21014-good-old-fashioned-pancakes-VAT-001-2x1-02-d6e63375c7aa40d4a24aa47b06d78729.jpg"
+  },
+  {
+    "id": "US-02",
+    "title": "Grilled Cheese Sandwich",
+    "src": "/images/meals/US-02.jpg",
+    "sourceName": "Allrecipes",
+    "sourceUrl": "https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/",
+    "originalImageUrl": "https://www.allrecipes.com/thmb/ypQHdHG7xWUDrFgECOFiUeqps_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-238891-Grilled-Cheese-Sandwich-beauty-2x1-4ac4ac98b0de441ea90ab7a0b02f3b25.jpg"
+  },
+  {
+    "id": "US-03",
+    "title": "Easy Meatloaf",
+    "src": "/images/meals/US-03.jpg",
+    "sourceName": "Allrecipes",
+    "sourceUrl": "https://www.allrecipes.com/recipe/16354/easy-meatloaf/",
+    "originalImageUrl": "https://www.allrecipes.com/thmb/iLAfLvIq4cqfEB3pA8AoNCGxrwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16354-easy-meatloaf-DDMFS-0036-5186-hero-2x1-36abc71abb0b436b9ce8eebef460f3f8.jpg"
+  },
+  {
+    "id": "US-04",
+    "title": "Delicious Egg Salad",
+    "src": "/images/meals/US-04.jpg",
+    "sourceName": "Allrecipes",
+    "sourceUrl": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/",
+    "originalImageUrl": "https://www.allrecipes.com/thmb/U5jUSs3VQOD_eTT-lGiT0X7wONc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-147103-delicious-egg-salad-for-sandwiches-DDMFS-2x1-448e07df819749508b9f59f1d56712e9.jpg"
+  },
+  {
+    "id": "US-05",
+    "title": "Mississippi Sloppy Joes",
+    "src": "/images/meals/US-05.jpg",
+    "sourceName": "Allrecipes",
+    "sourceUrl": "https://www.allrecipes.com/mississippi-sloppy-joes-recipe-12028051",
+    "originalImageUrl": "https://www.allrecipes.com/thmb/i_Q71nZs2MbW9w9azUMTxQhMvs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mississippi-Sloppy-Joes-Peyton-Bechwith-Beauty-2x1-986c019b742a40c4a4f377535ca4a13c.jpg"
+  },
+  {
+    "id": "US-06",
+    "title": "Mississippi Chicken Salad",
+    "src": "/images/meals/US-06.jpg",
+    "sourceName": "Allrecipes",
+    "sourceUrl": "https://www.allrecipes.com/mississippi-chicken-salad-recipe-11976292",
+    "originalImageUrl": "https://www.allrecipes.com/thmb/HaAgZElPrVLOlWLF-fzIHoKwQtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11976292-mississippi-chicken-salad-PICS-Beauty-2x1-4e887ef940ec40639bdcb00b5d922745.jpg"
+  },
+  {
+    "id": "US-07",
+    "title": "Southern Breakfast Potatoes",
+    "src": "/images/meals/US-07.jpg",
+    "sourceName": "Allrecipes",
+    "sourceUrl": "https://www.allrecipes.com/southern-breakfast-potatoes-recipe-11907741",
+    "originalImageUrl": "https://www.allrecipes.com/thmb/y1AUXcAnWtj_OttjeVIZNgPETPM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11907741-southern-breakfast-potatoes-recipe-VAT-Beauty-2x1-f016e2d4648442fba045524cf296df29.jpg"
+  },
+  {
+    "id": "US-08",
+    "title": "Tex-Mex Chicken and Zucchini",
+    "src": "/images/meals/US-08.jpg",
+    "sourceName": "Allrecipes",
+    "sourceUrl": "https://www.allrecipes.com/tex-mex-chicken-and-zucchini-recipe-11895713",
+    "originalImageUrl": "https://www.allrecipes.com/thmb/CtZJ992oDY_DCA_MrOx2PqXs2TY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11895713-tex-mex-chicken-and-zucchini-recipe-VAT-Beauty-2x1-cff3270a212e4d2bac6b91832df668a7.jpg"
+  },
+  {
+    "id": "US-09",
+    "title": "New Orleans Mac and Cheese",
+    "src": "/images/meals/US-09.jpg",
+    "sourceName": "Allrecipes",
+    "sourceUrl": "https://www.allrecipes.com/new-orleans-mac-and-cheese-recipe-11797804",
+    "originalImageUrl": "https://www.allrecipes.com/thmb/KLv6aRAJJgh_YozwrbLfemtK0Fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11797804-new-orleans-mac-and-cheese-recipe-VAT-Beauty-2x1-3815327dbfd94d7ca1fa1435fbfb8f2c.jpg"
+  }
+]

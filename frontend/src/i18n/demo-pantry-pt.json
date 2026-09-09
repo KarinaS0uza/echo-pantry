@@ -1,0 +1,32 @@
+{
+  "demoPantry": {
+    "title": "Minha Despensa",
+    "introduction": "Acompanhe seus ingredientes, veja o que precisa ser usado em breve e prepare o jantar com o que você tem.",
+    "expiry": "Data de validade estimada: {{date}}",
+    "add": "Adicionar Ingredientes",
+    "entryTitle": "Adicionar Ingredientes",
+    "entryHelp": "Três ingredientes estão prontos para adicionar. Edite os valores ou escolha Adicionar Mais Um antes de salvar. As datas são estimativas editáveis.",
+    "row": "Ingrediente {{count}}",
+    "invalid": "Informe um nome, uma quantidade maior que zero e uma data válida para cada ingrediente.",
+    "addError": "Não foi possível adicionar os ingredientes. Seus dados foram mantidos. Tente novamente.",
+    "cook": "Preparar Macarrão com Tomate e Burrata",
+    "reset": "Reiniciar Demonstração",
+    "resetConfirm": "Restaurar a despensa inicial e apagar seus pontos e histórico de preparo? Isso também remove os ingredientes adicionados à demonstração.",
+    "resetDone": "Sua demonstração está pronta para recomeçar.",
+    "resetError": "Não foi possível reiniciar a demonstração. Tente novamente.",
+    "points": "{{count}} Pontos de Culinária",
+    "meals_one": "{{count}} refeição feita em casa. Continue cultivando esse hábito!",
+    "meals_other": "{{count}} refeições feitas em casa. Continue cultivando esse hábito!",
+    "empty": "Adicione ingredientes para preparar sua próxima refeição caseira.",
+    "submit_one": "Adicionar Ingrediente",
+    "submit_other": "Adicionar Ingredientes",
+    "addOneMore": "Adicionar Mais Um",
+    "added_one": "1 ingrediente adicionado à sua despensa.",
+    "added_other": "{{count}} ingredientes adicionados à sua despensa.",
+    "prefill": {
+      "spinach": "Espinafre",
+      "lemons": "Limões",
+      "chickpeas": "Grão-de-bico"
+    }
+  }
+}

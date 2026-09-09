@@ -1,0 +1,183 @@
+{
+  "kitchen": {
+    "home": "Home",
+    "headline": "Your pantry.\nTonight’s dinner.",
+    "recipe": "Recipe",
+    "cooking": "Cooking",
+    "search": "Find a Recipe",
+    "searchLabel": "Recipe name",
+    "quickIdeas": "Quick ideas",
+    "seeAll": "See All",
+    "backKitchen": "Back to Kitchen",
+    "backRecipe": "Back to Recipe",
+    "startCooking": "Start Guided Cooking",
+    "timer": "Timer",
+    "startTimer": "Start Timer",
+    "pauseTimer": "Pause Timer",
+    "resumeTimer": "Resume Timer",
+    "resetTimer": "Reset Timer",
+    "timerFinished": "Timer finished. Your next step is ready.",
+    "timerRunning": "Timer is running.",
+    "timerPaused": "Timer is paused.",
+    "timeRemaining": "Time remaining",
+    "timeUnits": "min     sec",
+    "stepCount": "Step {{current}} of {{total}}",
+    "nextStep": "Next Step",
+    "previousStep": "Previous Step",
+    "finishCooking": "Finish Cooking",
+    "complete": "Meal Complete",
+    "enjoy": "You cooked at home!",
+    "finishedBody": "Your meal is recorded and your pantry is up to date. Enjoy your meal!",
+    "takeYourTime": "Take your time. Move on when you are ready.",
+    "showTip": "Show Cooking Tip",
+    "cookingOptions": "Cooking Tips and Information",
+    "tip": "A Little Kitchen Tip",
+    "dark": "Use Dark Appearance",
+    "light": "Use Light Appearance",
+    "saveRecipe": "Save {{name}}",
+    "unsaveRecipe": "Unsave {{name}}",
+    "savedVisit_one": "1 recipe saved for this visit.",
+    "savedVisit_other": "{{count}} recipes saved for this visit.",
+    "browseMeals": "Browse Pantry Meals",
+    "noResults": "No recipes match. Try “beans” or “tomato”.",
+    "ideas": {
+      "lemon": {
+        "title": "With Lemon",
+        "body": "Bright & fresh"
+      },
+      "beans": {
+        "title": "With Beans",
+        "body": "Hearty & warm"
+      },
+      "green": {
+        "title": "With Basil",
+        "body": "Light & herby"
+      }
+    },
+    "dishes": {
+      "beans": {
+        "title": "Lemony white beans",
+        "metadata": "25 min · Serves 2",
+        "ingredients": [
+          "2 cups cooked white beans, drained",
+          "1 tablespoon olive oil",
+          "1 lemon, zest and juice",
+          "2 tablespoons chopped parsley",
+          "A splash of water",
+          "Salt and black pepper, to taste"
+        ],
+        "method": [
+          "Warm the olive oil in a pan.",
+          "Add beans and a splash of water. Simmer for 8 minutes.",
+          "Finish with lemon and parsley."
+        ],
+        "steps": [
+          {
+            "title": "A little preparation.",
+            "body": "Drain the cooked beans. Zest the lemon and chop the parsley.",
+            "tip": "Set the ingredients beside the stove before you begin."
+          },
+          {
+            "title": "Warm the olive oil.",
+            "body": "Set a pan over medium-low heat. Add the olive oil and let it warm gently.",
+            "tip": "The oil should look glossy without smoking."
+          },
+          {
+            "title": "Let it gently\nsimmer.",
+            "body": "Add the beans and a splash of water. Cook until silky.",
+            "tip": "Stir gently. Add a little more water if the pan looks dry."
+          },
+          {
+            "title": "Bring in the lemon.",
+            "body": "Take the pan off the heat. Stir in the lemon zest and a squeeze of juice.",
+            "tip": "Start with a little lemon juice, then taste and adjust."
+          },
+          {
+            "title": "A fresh finish.",
+            "body": "Fold in the parsley. Season with salt and black pepper to taste.",
+            "tip": "Keep a little parsley aside to scatter over the bowls."
+          },
+          {
+            "title": "Make it a meal.",
+            "body": "Spoon into warm bowls and finish with a drizzle of olive oil.",
+            "tip": "Serve with a piece of toast if you have one."
+          }
+        ]
+      },
+      "tomato": {
+        "title": "Tomato & Burrata Pasta",
+        "metadata": "25 min · Serves 2",
+        "ingredients": [
+          "200 g pasta",
+          "250 g cherry tomatoes",
+          "1 ball of burrata",
+          "A small handful of basil",
+          "2 garlic cloves",
+          "1 tablespoon olive oil",
+          "Salt and black pepper, to taste"
+        ],
+        "method": [
+          "Bring a large pot of salted water to a boil. Halve 250 g cherry tomatoes, slice 2 garlic cloves, and pick a small handful of basil leaves.",
+          "Add 200 g pasta to the boiling water. Cook according to the package instructions until al dente. Reserve a mug of pasta water before draining.",
+          "While the pasta cooks, warm 1 tablespoon olive oil in a large pan over medium-low heat. Add the garlic and stir for about 1 minute, until fragrant.",
+          "Add the cherry tomatoes and a pinch of salt. Cook for 5 to 7 minutes, stirring occasionally, until softened. Gently press some tomatoes to release their juices.",
+          "Add the drained pasta to the tomato pan. Toss with a splash of pasta water until the sauce coats the pasta. Tear in most of the basil, then turn off the heat.",
+          "Divide the pasta between two bowls. Tear 1 ball of burrata over the top and finish with the remaining basil and black pepper. Select Finish Cooking to review what you used."
+        ],
+        "steps": [
+          {
+            "title": "Prep your ingredients.",
+            "body": "Bring a large pot of salted water to a boil. Halve 250 g cherry tomatoes, slice 2 garlic cloves, and pick a small handful of basil leaves.",
+            "tip": "Keep the burrata ready to add after cooking."
+          },
+          {
+            "title": "Cook the pasta.",
+            "body": "Add 200 g pasta to the boiling water. Cook according to the package instructions until al dente. Reserve a mug of pasta water before draining.",
+            "tip": "The pasta should still have a little bite. Follow your pasta package for the timing."
+          },
+          {
+            "title": "Warm the garlic.",
+            "body": "While the pasta cooks, warm 1 tablespoon olive oil in a large pan over medium-low heat. Add the garlic and stir for about 1 minute, until fragrant.",
+            "tip": "Lower the heat if the garlic starts to brown."
+          },
+          {
+            "title": "Make the tomato sauce.",
+            "body": "Add the cherry tomatoes and a pinch of salt. Cook for 5 to 7 minutes, stirring occasionally, until softened. Gently press some tomatoes to release their juices.",
+            "tip": "Add a splash of reserved pasta water if the pan looks dry."
+          },
+          {
+            "title": "Toss it together.",
+            "body": "Add the drained pasta to the tomato pan. Toss with a splash of pasta water until the sauce coats the pasta. Tear in most of the basil, then turn off the heat.",
+            "tip": "Add pasta water a little at a time to keep the sauce silky."
+          },
+          {
+            "title": "Add burrata and serve.",
+            "body": "Divide the pasta between two bowls. Tear 1 ball of burrata over the top and finish with the remaining basil and black pepper. Select Finish Cooking to review what you used.",
+            "tip": "Add burrata off the heat so its center stays creamy."
+          }
+        ]
+      }
+    },
+    "overview": "Keep track of what you have, see what needs using soon, and turn your pantry ingredients into a home-cooked meal.",
+    "myPantry": "My Pantry",
+    "pantrySummary": "{{count}} pantry items · {{points}} points",
+    "viewPantry": "View My Pantry",
+    "reviewTitle": "Review Ingredients Used",
+    "reviewBody": "Select the pantry entries you finished using. Selected entries will be removed from My Pantry. Leave anything with leftovers unchecked.",
+    "noPantryItems": "Your pantry is empty. You can still record your home-cooked meal.",
+    "completionError": "We could not confirm your pantry update. Retry to safely check and finish the same meal.",
+    "retryFinish": "Retry Finish Cooking",
+    "pointsEarned": "+{{points}} Points",
+    "homeReward": "+100 points for cooking at home",
+    "balancedReward": "+50 points for healthy cooking habits",
+    "rewardNote": "Keep building your home-cooking habit, one meal at a time.",
+    "totalRewards": "{{count}} meals cooked · {{points}} total points",
+    "pantryLoadError": "Your pantry could not be loaded. Try again to see your ingredients.",
+    "retryPantry": "Reload Pantry",
+    "finishedBody_one": "Your meal is recorded. 1 selected pantry entry was removed, and everything else is still in My Pantry. Enjoy your meal!",
+    "finishedBody_other": "Your meal is recorded. {{count}} selected pantry entries were removed, and everything else is still in My Pantry. Enjoy your meal!",
+    "finishedBody_zero": "Your meal is recorded. You kept all your pantry items. Enjoy your meal!",
+    "readyFromPantry": "All recipe ingredients are in your pantry.",
+    "missingIngredients": "To make this recipe, add: {{ingredients}}."
+  }
+}

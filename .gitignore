@@ -1,0 +1,54 @@
+.DS_Store
+.agents/
+.specify/
+data/
+planning/
+.planning/
+specs/
+/docs/
+/DECISIONS.md
+scripts/
+
+# Local browser QA evidence: screenshots, reports, and retest artifacts
+/artifacts/browser-qa/
+
+# Python environments, caches, and packaging
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Frontend dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+.setup-probe-*/
+*.log
+
+# Local configuration; safe templates remain trackable
+.env*
+!.env.example
+
+# Local database, SQLite sidecars, and snapshots
+*.sqlite3
+*.sqlite3-*
+*.sqlite
+*.sqlite-*
+backups/
+
+# Editor and operating-system files
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+
+# Local Claude configuration
+.claude/

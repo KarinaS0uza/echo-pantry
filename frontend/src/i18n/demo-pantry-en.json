@@ -1,0 +1,32 @@
+{
+  "demoPantry": {
+    "title": "My Pantry",
+    "introduction": "Keep track of what you have, see what needs using soon, and turn your ingredients into dinner.",
+    "expiry": "Estimated use-by date: {{date}}",
+    "add": "Add Ingredients",
+    "entryTitle": "Add Ingredients",
+    "entryHelp": "Three ingredients are ready to add. Edit any value or choose Add One More before saving. Dates are editable estimates.",
+    "row": "Ingredient {{count}}",
+    "invalid": "Enter a name, a quantity greater than zero, and a valid date for each ingredient.",
+    "addError": "We couldn't add your ingredients. Your entries are still here. Please try again.",
+    "cook": "Make Tomato and Burrata Pasta",
+    "reset": "Reset Demo",
+    "resetConfirm": "Restore the starting pantry and clear your demo points and cooking history? This also removes ingredients you added to this demo.",
+    "resetDone": "Your demo is ready to start again.",
+    "resetError": "We couldn't reset the demo. Please try again.",
+    "points": "{{count}} Cooking Points",
+    "meals_one": "{{count}} home-cooked meal. Keep up your cooking habit!",
+    "meals_other": "{{count}} home-cooked meals. Keep up your cooking habit!",
+    "empty": "Add ingredients to prepare your next home-cooked meal.",
+    "submit_one": "Add Ingredient",
+    "submit_other": "Add Ingredients",
+    "addOneMore": "Add One More",
+    "added_one": "1 ingredient added to your pantry.",
+    "added_other": "{{count}} ingredients added to your pantry.",
+    "prefill": {
+      "spinach": "Spinach",
+      "lemons": "Lemons",
+      "chickpeas": "Chickpeas"
+    }
+  }
+}
